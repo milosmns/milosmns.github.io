@@ -1,0 +1,14 @@
+---
+layout: post
+title: Sunrise
+description: The sun is up. It's my first blog post.
+date: 2015-06-01 15:00:00 +0100
+image: '/images/posts/sunrise.jpg'
+tags: [blog, personal]
+---
+
+> I decided to fly through the air and live in the sunlight and enjoy life as much as I could.
+>
+> <cite>Evel Knievel</cite>
+
+Yeah... that pretty much sums it up. The sun is up and I'm gonna start writing a blog.
