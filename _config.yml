@@ -1,8 +1,9 @@
 #-------------------------------
 # General Site Settings
-title: A blog by Milos Marinkovic
+title: Blog by Milos Marinkovic
 logo: '/images/brand/logo.png'
 description: This blog is my personal space where I write about technology, organization, business, life hacks... but sometimes I also rant about random things. My opinions presented here are my own.
+keywords: milos, marinkovic, tech, blog, posts, writing, journal, diary, personal, space, paper, developer, product, lead, engineer, profile, organization, skill
 baseurl: "" # The subpath of your site, e.g. /blog
 url: "" # The base hostname & protocol for your site, e.g. http://example.com
 
