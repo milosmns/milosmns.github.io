@@ -4,7 +4,7 @@ title: Ubuntu · Entering commands
 description: An overview
 date: 2015-07-25 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
-tags: [ubuntu, terminal, how-to]
+tags: [linux, ubuntu, terminal, how-to]
 featured: false
 ---
 
