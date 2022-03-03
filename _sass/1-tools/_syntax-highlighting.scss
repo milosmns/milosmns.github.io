@@ -10,6 +10,7 @@ code {
     border-radius: 8px;
     color: #eee;
     background-color: #234;
+    white-space: nowrap !important;
   }
 }
 
@@ -18,7 +19,7 @@ code {
   color: $white;
   background: $blue-dark;
 
-  // As instructed by the theme author:
+  // As instructed by the theme author, this is for code highlighting:
   //
   // .highlighter-rouge & {
   //   background: #eef;
@@ -40,7 +41,7 @@ code {
   .gi    { color: #000; background-color: #dfd } // Generic.Inserted
   .gi .x { color: #000; background-color: #afa } // Generic.Inserted.Specific
   .go    { color: #888 } // Generic.Output
-  .gp    { color: #555 } // Generic.Prompt
+  .gp    { color: #777 } // Generic.Prompt
   .gs    { font-weight: bold } // Generic.Strong
   .gu    { color: #fff } // Generic.Subheading
   .gt    { color: #f66 } // Generic.Traceback

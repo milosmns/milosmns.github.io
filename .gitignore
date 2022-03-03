@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/windows,macos,linux,vs,visualstudio,visualstudiocode,ruby
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,macos,linux,vs,visualstudio,visualstudiocode,ruby
 
@@ -706,4 +705,4 @@ FodyWeavers.xsd
 
 .jekyll-cache/
 _site/
-
+images/.DS_Store

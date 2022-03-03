@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Installing Oracle's Java 7
-description: An overview
+description: An opinionated guide
 date: 2015-07-27 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]
@@ -12,19 +12,19 @@ _Note: This was tested on 12.04, but should work for later versions as well._
 
 #### Add the repository so that you have somewhere to pull JDK 7 from
 
-```console
+```bash
 sudo add-apt-repository ppa:webupd8team/java
 ```
 
 #### Update your machine's information about available software
 
-```console
+```bash
 sudo apt-get update
 ```
 
 #### Finally install Java
 
-```console
+```bash
 sudo apt-get install oracle-java7-installer
 ```
 
@@ -32,12 +32,12 @@ Of course, if you need **Java 6**, **Java 8**, etc, just change the number in th
 
 To test if it’s working, run this command:
 
-```console
+```bash
 java -version
 ```
 
 To see if compiling would work, run:
 
-```console
+```bash
 javac -version
 ```
