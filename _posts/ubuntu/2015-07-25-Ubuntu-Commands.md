@@ -12,15 +12,24 @@ _Note: This was tested on 12.04, but should work for later versions as well._
 
 Similarly to Windows machines (or Macs), you'll have some sort of a starting menu (or a start bar) on your Linux. On Ubuntu it will be on the left side of the screen by default. You can view some of the frequently used shortcuts in Ubuntu by holding down the “**super**” button. If you’re using a Windows-like keyboard, the button will look like a Start Menu icon, located between the “**Ctrl**” and “**Alt**” OR “**Fn**” and “**Alt**” keys. Check the image below.
 
+{:refdef: style="text-align: center;"}
 ![image](/images/posts/keyboard-windows.png)
+*Windows Keyboard*
+{: refdef}
 
 If you’re using a Mac keyboard, your Super key will be the “**Option**” key. Check the image below.
 
+{:refdef: style="text-align: center;"}
 ![image](/images/posts/keyboard-mac.png)
+*Mac Keyboard*
+{: refdef}
 
 If you’re using a keyboard that’s been manufactured for Ubuntu, you’ll have a key like the one below to use as a Super key. Check the image.
 
+{:refdef: style="text-align: center;"}
 ![image](/images/posts/keyboard-ubuntu.png)
+*Linux Keyboard*
+{: refdef}
 
 If you're connected to a remote server, you'll be already running a Terminal (or another Command Line) window. You can then just type.
 
