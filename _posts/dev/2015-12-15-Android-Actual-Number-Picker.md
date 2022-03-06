@@ -4,7 +4,7 @@ title: Android · Actual Number Picker
 description: A free UI element for horizontal number picking, resembling a top-down look of a wheel
 date: 2015-12-15 15:00:00 +0100
 image: '/images/posts/actual-number-picker.png'
-tags: [dev, software, android, open-source]
+tags: [dev, software, apps, android, open-source]
 featured: false
 ---
 

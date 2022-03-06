@@ -4,7 +4,7 @@ title: Android · Circular Slider
 description: A free UI element for circular (round) number picking
 date: 2015-12-15 14:00:00 +0100
 image: '/images/posts/circle-slider.png'
-tags: [dev, software, android, open-source]
+tags: [dev, software, apps, android, open-source]
 featured: false
 ---
 

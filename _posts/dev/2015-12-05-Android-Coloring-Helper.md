@@ -4,7 +4,7 @@ title: Android Helpers · Coloring utility
 description: A free utility to help out with coloring of Android UI elements, drawables and other text and graphics
 date: 2015-12-05 15:00:00 +0100
 image: '/images/posts/color-pencils.jpg'
-tags: [dev, software, android, open-source]
+tags: [dev, software, apps, android, open-source]
 featured: false
 ---
 
