@@ -160,7 +160,7 @@ img,
 
 a {
   text-decoration: none;
-  color: $text-color;
+  color: $brand-color-pale;
   transition: $global-transition;
   &:hover {
     color: $brand-color;
@@ -230,7 +230,7 @@ table tr:hover {
     text-align: center;
     color: $text-color;
     a {
-      border-bottom: 2px solid rgba($text-color, .1);
+      border-bottom: 2px solid rgba($text-color, .2);
       &:hover {
         border-color: $brand-color;
         color: $text-color;
