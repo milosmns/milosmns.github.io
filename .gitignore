@@ -706,3 +706,4 @@ FodyWeavers.xsd
 .jekyll-cache/
 _site/
 images/.DS_Store
+.jekyll-metadata
