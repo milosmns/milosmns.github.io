@@ -5,7 +5,7 @@ description: The basics of Coroutines, the major building blocks, and a simple o
 date: 2019-12-10 15:00:00 +0100
 image: '/images/posts/tubes.jpg'
 tags: [dev, software, apps, android, kotlin]
-featured: true
+featured: false
 ---
 
 ## Introduction
