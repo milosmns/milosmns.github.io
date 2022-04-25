@@ -11,15 +11,15 @@ I write here about software, tech and tech organizations. _(for the most part)_
 
 #### Why though?
 
-I like sharing ideas through presentations and writing.
+I like to share ideas through presentations and writing.
 
-If you see anything tech-related, I'll probably like it.
-I’m a software enthusiast, product developer, engineering lead, tech speaker, event organizer, passionate skier.
+If you see something related to technology, I'll probably like it.
+I am a software enthusiast, product developer, technical leader, speaker, event organizer, and avid skier.
 
-My main interests are Mobile, Cloud, electronics and Smart Devices.
-Other than that, I'll read often about innovation, computer science and organization.
+My main interests are organizations, apps, cloud, electronics and smart devices.
+I also often read or listen about innovation, computer science, and organizational management.
 
-In my spare time I (try to) travel, speak at conferences, coach, and work on open-source stuff.
+In my spare time, I (try to) travel, speak at conferences, coach, and work on open-source projects.
 
 ## Connect with me
 
