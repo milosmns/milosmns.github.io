@@ -113,11 +113,11 @@ $ subl my_file.txt       # opens file
 $ subl Documents/project # opens project
 ```
 
-## Lookup tools
+## Next-gen Terminal tools
 
-Using `grep` and `find` to search for files from the Terminal is fine. Also, using `cd` to enter directories is fine, and `ls` to list the contents is fine. But all of these can start feeling very repetitive if you often go through a deep structure of directories.
+Using `grep` and `find` to search for files from the Terminal is fine. Also, using `cd` to enter directories is fine, and `ls` to list the contents is fine. But all of these can start feeling very repetitive if you often go through a deep structure of directories. Same goes for `sed`.
 
-I found some nice helpers on top of these tools that are (1) faster, and (2) provide a better UX.
+I found some nice utilities built on top of these ideas that are (1) faster, and (2) provide a better UX.
 
 **1. [AutoJump](https://github.com/wting/autojump)**
 
@@ -128,8 +128,10 @@ Here's an example of what you can do with AutoJump:
 ```console
 $ pwd
 /Users/m.marinkovic
+
 $ j open
 Jumped to 'open-source'
+
 $ pwd
 /Users/m.marinkovic/dev/open-source
 ```
@@ -139,8 +141,10 @@ It can also guess correctly even with simpler and shorter jump directions, like 
 ```console
 $ pwd
 /Users/m.marinkovic
+
 $ j a
 Jumped to 'android'
+
 $ pwd
 /Users/m.marinkovic/dev/android
 ```
@@ -176,6 +180,48 @@ $ tree .how-to
 └── styleguide.md
 
 3 directories, 8 files
+```
+
+**4. [FD](https://github.com/sharkdp/fd#on-macos)**
+
+While `find` works fine, `fd` is a simple, fast and user-friendly alternative to it. While it does not aim to support all of `find`'s powerful functionality, it provides sensible (and opinionated) defaults for the majority of use cases.
+
+```console
+$ fd mac
+
+_posts/op-ed/2020-03-23-Preparing-Mac-Engineering.md
+images/posts/keyboard-mac.png
+images/posts/mac-setup-iterm.png
+images/posts/mac-setup-keyboard.png
+images/posts/mac-setup-modifiers.png
+images/posts/mac-setup-ripgrep.png
+images/posts/mac-setup-terminal.png
+images/posts/work-desk-mac.jpg
+```
+
+**5. [SD](https://github.com/chmln/sd#macos)**
+
+Unix' default [`sed`](https://www.gnu.org/software/sed/manual/sed.html) (stream editor) is... well, let's just say that nobody likes to use it. 😝
+
+So, `sd` is the arguably better alternative. It's more intuitive and has different defaults.
+
+Removing chars and whitespace looks like this:
+
+```console
+$ echo '"lots((([]))) of special chars"' | sd -s '((([])))' ''
+"lots of special chars"
+
+$ echo '"lorem ipsum 23   "' | sd '\s+$' ''
+"lorem ipsum 23"
+```
+
+Replacing text in file and in project looks like this:
+```console
+$ sd 'window.fetch' 'fetch' http.js
+Replaced in http.js
+
+$ sd 'from "react"' 'from "preact"' $(fd --type file)
+Replaced in project
 ```
 
 ## The Terminal
