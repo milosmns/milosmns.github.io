@@ -339,7 +339,8 @@ What else do you need?
 
 #### Productivity tools
 
-- A better Calendar app? [Fantastical 2](https://flexibits.com/fantastical) -- it's a no-brainer
+- Better Spotlight? It's a must-have, try [Raycast](https://www.raycast.com/)
+- A better Calendar app? [Fantastical 2](https://flexibits.com/fantastical)
 - A better Email client? [Air Mail](https://airmailapp.com) -- another no-brainer
 - An open-source, cross-platform password manager? [BitWarden](https://bitwarden.com)
 - Your MenuBar is too busy? Hide the clutter with [Vanilla](https://matthewpalmer.net/vanilla) (paid) or [Hidden Bar](https://github.com/dwarvesf/hidden) (free)
