@@ -65,7 +65,7 @@ ReactiveX works. Why change that, right?
 
 ## Enter: Kotlin Coroutines
 
-We can surely agree on a couple of things -- ReactiveX is a huge package to include in your codebase (although slimmer with ProGuard/D8), it has a really steep learning curve, and we abuse and misuse it in many ways due to its many, many features. On the other hand, Kotlin's Coroutines come in a slim package by default, syntax support is built-in, and they make your asyncronous code look synchronous (helps with code readability). Or, at least, that's what JetBrains wants us to thing.
+We can surely agree on a couple of things -- ReactiveX is a huge package to include in your codebase (although slimmer with ProGuard/D8), it has a really steep learning curve, and we abuse and misuse it in many ways due to its many, many features. On the other hand, Kotlin's Coroutines come in a slim package by default, syntax support is built-in, and they make your asyncronous code look synchronous (which helps with code readability). Or, at least, that's what JetBrains wants us to think.
 
 How far is their marketing pitch from the truth?
 
