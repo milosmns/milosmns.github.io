@@ -101,7 +101,7 @@ Sublime Text also has fancy code coloring, syntax-related completion, plugins...
 Downloading from the official website works, although it's easier to maintain through Homebrew:
 
 ```console
-$ brew cask install sublime-text
+$ brew install --cask sublime-text
 ```
 
 Pro tip #1: after installing, open Sublime Text and choose the `Adaptive` theme from the settings.
