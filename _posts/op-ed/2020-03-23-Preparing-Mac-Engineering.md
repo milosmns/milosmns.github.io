@@ -340,8 +340,8 @@ What else do you need?
 #### Productivity tools
 
 - Better Spotlight? It's a must-have, try [Raycast](https://www.raycast.com/)
-- A better Calendar app? [Fantastical 2](https://flexibits.com/fantastical)
-- A better Email client? [Air Mail](https://airmailapp.com) -- another no-brainer
+- A good Calendar app? [Fantastical 2](https://flexibits.com/fantastical)
+- A good Email client, finally? [Air Mail](https://airmailapp.com) or [MimeStream](https://mimestream.com)
 - An open-source, cross-platform password manager? [BitWarden](https://bitwarden.com)
 - Your MenuBar is too busy? Hide the clutter with [Vanilla](https://matthewpalmer.net/vanilla) (paid) or [Hidden Bar](https://github.com/dwarvesf/hidden) (free)
 - Clipboard manager? [Copy Clip](https://fiplab.com/apps/copyclip-for-mac) works perfectly, it's a **must have**
