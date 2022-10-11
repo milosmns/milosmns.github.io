@@ -347,9 +347,9 @@ What else do you need?
 - Clipboard manager? [Copy Clip](https://fiplab.com/apps/copyclip-for-mac) works perfectly, it's a **must have**
 - All-in-one messenger? [Rambox](https://rambox.app) or [Franz](https://meetfranz.com)
 - You miss your split-window feature from Windows? No problem, [Magnet](https://apps.apple.com/de/app/magnet/id441258766?l=en&mt=12)'s got you covered
-- Customizable app switcher? [Command-Tab Plus](https://noteifyapp.com/command-tab-plus) is great, includes window switching and allows command remapping
-- ~~Tracking your time? Clockify. It has a Mac app and it's easy to use~~  
-**NO. NEVER SAY YES TO TIME TRACKING.**
+- Customizable app switcher? I used to recommend [Command-Tab Plus](https://noteifyapp.com/command-tab-plus), but it's paid... while [Alt-Tab](https://github.com/lwouis/alt-tab-macos) is free and covers the same features, more or less
+- ~~Tracking your time? **Clockify**. It has a Mac app and it's easy to use~~  
+**`NO. SAY NO TO TIME TRACKING.`**
 
 #### Graphics tools
 
