@@ -47,7 +47,7 @@ Let's make things easy first.
 
 How would setting up a development environment on a Mac without [Homebrew](https://brew.sh) work? It's the "unofficial Mac package manager". Well, I won't say that it's impossible to maintain such an environment, it's totally doable... but it's definitely super inconvenient.
 
-You should check the project's homepage for the latest installation instructions.  
+You should check the project's homepage for the latest installation instructions.
 Here's what I did from my Terminal:
 
 ```console
@@ -58,7 +58,7 @@ That's all. Installing new software is now a breeze using `brew`.
 
 #### Z-Shell
 
-Your Mac probably already has [Z-Shell](https://formulae.brew.sh/formula/zsh) (`zsh`) installed and set as the default shell. Z-Shell provides a better UX and more features than the basic shells.  
+Your Mac probably already has [Z-Shell](https://formulae.brew.sh/formula/zsh) (`zsh`) installed and set as the default shell. Z-Shell provides a better UX and more features than the basic shells.
 You can check with:
 
 ```console
@@ -68,7 +68,7 @@ $ echo $0      # should output: -zsh
 
 If it's there, skip to the next section.
 
-If you're not getting `zsh`, you'll need to install and set up Z-Shell manually. Your default is probably Bash (`/bin/bash`). This Shell was the default before macOS Catalina. With the Catalina release, Apple switched to a new default: Z-Shell. You'll anyway still have your basic shells available in case you need them -- `/bin/bash` and `/bin/sh` -- but [here are some reasons](https://github.com/hmml/awesome-zsh) for why `zsh` is better than `bash` and `sh`. 
+If you're not getting `zsh`, you'll need to install and set up Z-Shell manually. Your default is probably Bash (`/bin/bash`). This Shell was the default before macOS Catalina. With the Catalina release, Apple switched to a new default: Z-Shell. You'll anyway still have your basic shells available in case you need them -- `/bin/bash` and `/bin/sh` -- but [here are some reasons](https://github.com/hmml/awesome-zsh) for why `zsh` is better than `bash` and `sh`.
 
 To install `zsh` using Homebrew:
 
@@ -285,7 +285,7 @@ plugins=(git colored-man-pages colorize pip python macos docker kubectl)
 
 ## Java Virtual Machines
 
-I usually need a JVM environment. You may be aware of the Java licensing change... basically, Oracle [changed their Java license](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244), so their JDK and JRE are not commercially usable anymore. Not for free, anyway...  
+I usually need a JVM environment. You may be aware of the Java licensing change... basically, Oracle [changed their Java license](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244), so their JDK and JRE are not commercially usable anymore. Not for free, anyway...
 **Update**: it seems like they changed back to free licensing. But no thanks.
 
 The "open" version of Java is still free, and can be installed through Homebrew from [AdoptOpenJDK](https://github.com/AdoptOpenJDK/homebrew-openjdk#other-versions), for example.
@@ -348,7 +348,7 @@ What else do you need?
 - All-in-one messenger? [Rambox](https://rambox.app) or [Franz](https://meetfranz.com)
 - You miss your split-window feature from Windows? No problem, [Magnet](https://apps.apple.com/de/app/magnet/id441258766?l=en&mt=12)'s got you covered
 - Customizable app switcher? I used to recommend [Command-Tab Plus](https://noteifyapp.com/command-tab-plus), but it's paid... while [Alt-Tab](https://github.com/lwouis/alt-tab-macos) is free and covers the same features, more or less
-- ~~Tracking your time? **Clockify**. It has a Mac app and it's easy to use~~  
+- ~~Tracking your time? **Clockify**. It has a Mac app and it's easy to use~~
 **`NO. SAY NO TO TIME TRACKING.`**
 
 #### Graphics tools
@@ -369,14 +369,14 @@ What else do you need?
 - Monitoring your Mac's hardware? [iStatMenus](https://bjango.com/mac/istatmenus) integrates pretty well
 - [Service Station](https://apps.apple.com/de/app/service-station/id1503136033?mt=12) allows you to extend Finder's capabilities (Open with..., custom scripts, etc.)
 - [New File Menu](https://apps.apple.com/de/app/new-file-menu/id1064959555?mt=12), if you're missing your Windows' "new file" menu
-- Your company policy puts your Mac to sleep after 2 minutes? Use [Caffeine](http://lightheadsw.com/caffeine) to keep it awake
+- Your company policy puts your Mac to sleep after 2 minutes? Use [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) to keep it awake
 - Saving your audio books for later? [Open Audible](https://openaudible.org)
 
 #### Development tools
 
 - [Screen Copier (scrcpy)](https://github.com/Genymobile/scrcpy#macos) will mirror your connected Android devices on the desktop, for free
 - [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac#download) allows you to save screenshots, screen recordings and GIFs of your connected Android devices
-- A professional, advanced IDE for iOS and macOS development?  
+- A professional, advanced IDE for iOS and macOS development?
 **Sorry, you're stuck XCode** 😬
 
 #### Other
