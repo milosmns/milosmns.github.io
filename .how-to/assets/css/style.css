@@ -64,19 +64,19 @@ h1 {
   font-size: 36px;
   font-weight: normal;
   line-height: 42px;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
 }
 h2 {
   font-size: 28px;
   font-weight: 700;
   line-height: 32px;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
 }
 h3 {
   font-size: 22px;
   font-weight: 700;
   line-height: 30px;
-  letter-spacing: -1px;
+  letter-spacing: -0.5px;
 }
 h4 {
   font-size: 18px;
