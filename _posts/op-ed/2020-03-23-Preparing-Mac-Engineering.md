@@ -343,7 +343,7 @@ What else do you need?
 - A good Calendar app? [Fantastical 2](https://flexibits.com/fantastical)
 - A good Email client, finally? [Air Mail](https://airmailapp.com) or [MimeStream](https://mimestream.com)
 - An open-source, cross-platform password manager? [BitWarden](https://bitwarden.com)
-- Your MenuBar is too busy? Hide the clutter with [Vanilla](https://matthewpalmer.net/vanilla) (paid) or [Hidden Bar](https://github.com/dwarvesf/hidden) (free)
+- Your MenuBar is too busy? You have a notch? Hide the clutter with ~[Vanilla](https://matthewpalmer.net/vanilla) (paid)~, [Hidden Bar](https://github.com/dwarvesf/hidden) (free) or [Barbee](https://apps.apple.com/us/app/barbee-hide-menu-bar-items/id1548711022?mt=12) (free or paid)
 - Clipboard manager? [Copy Clip](https://fiplab.com/apps/copyclip-for-mac) works perfectly, it's a **must have**
 - All-in-one messenger? [Rambox](https://rambox.app) or [Franz](https://meetfranz.com)
 - You miss your split-window feature from Windows? No problem, [Magnet](https://apps.apple.com/de/app/magnet/id441258766?l=en&mt=12)'s got you covered
