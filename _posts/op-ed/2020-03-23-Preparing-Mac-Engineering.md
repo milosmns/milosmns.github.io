@@ -10,7 +10,7 @@ featured: false
 
 #### Motivation
 
-Due to the circumstances that unfolded over the past 3 months, I had to switch and set up my work laptop 4 times. From scratch. It's seriously annoying to go through the same setup every time... and that's why I wanted to be smarter and take notes to remind myself about all the little things I have to repeat during setups. The goal is have the same work environment on each new machine.
+Due to the circumstances that unfolded over the past 3 months, I had to switch and set up my work laptop 4 times. From scratch. It's seriously annoying to go through the same setup every time… and that's why I wanted to be smarter and take notes to remind myself about all the little things I have to repeat during setups. The goal is have the same work environment on each new machine.
 
 This is more of a checklist for me than it is for you, but you're welcome to steal some ideas. I stole many myself. 😬
 
@@ -25,7 +25,7 @@ One example of that -- all of my recent devices had a TouchBar. I find it useles
 *My TouchBar, disabled*
 {: refdef}
 
-Another example -- I'm very used to Linux/Windows modifier keys (Ctrl, Alt, Super). It has always been just easier to continue with whatever I was used to... especially knowing that Apple isn't forcing their opinion on this -- macOS allows you to easily swap all modifiers, even Caps Lock. It's done through **System Preferences** → **Keyboard** → **Modifier Keys**.
+Another example -- I'm very used to Linux/Windows modifier keys (Ctrl, Alt, Super). It has always been just easier to continue with whatever I was used to… especially knowing that Apple isn't forcing their opinion on this -- macOS allows you to easily swap all modifiers, even Caps Lock. It's done through **System Preferences** → **Keyboard** → **Modifier Keys**.
 
 {:refdef: style="text-align: center;"}
 ![Modifier Keys](/images/posts/mac-setup-modifiers.png)
@@ -45,7 +45,7 @@ Let's make things easy first.
 
 #### Homebrew
 
-How would setting up a development environment on a Mac without [Homebrew](https://brew.sh) work? It's the "unofficial Mac package manager". Well, I won't say that it's impossible to maintain such an environment, it's totally doable... but it's definitely super inconvenient.
+How would setting up a development environment on a Mac without [Homebrew](https://brew.sh) work? It's the "unofficial Mac package manager". Well, I won't say that it's impossible to maintain such an environment, it's totally doable… but it's definitely super inconvenient.
 
 You should check the project's homepage for the latest installation instructions.
 Here's what I did from my Terminal:
@@ -94,9 +94,9 @@ Restart your Terminal to see the change.
 
 ## Fast text editing
 
-You might not like editing files in the Terminal. I can take `nano`, but even that is often slow... so, I do it in a standalone app. My favorite **text editor** is [Sublime Text](https://www.sublimetext.com). It's much better than the default TextEdit app you get with your Mac.
+You might not like editing files in the Terminal. I can take `nano`, but even that is often slow… so, I do it in a standalone app. My favorite **text editor** is [Sublime Text](https://www.sublimetext.com). It's much better than the default TextEdit app you get with your Mac.
 
-Sublime Text also has fancy code coloring, syntax-related completion, plugins... but I really only see it as a text editor that is also capable of displaying code -- and that's how I use it.
+Sublime Text also has fancy code coloring, syntax-related completion, plugins… but I really only see it as a text editor that is also capable of displaying code -- and that's how I use it.
 
 Downloading from the official website works, although it's easier to maintain through Homebrew:
 
@@ -201,7 +201,7 @@ images/posts/work-desk-mac.jpg
 
 **5. [SD](https://github.com/chmln/sd#macos)**
 
-Unix' default [`sed`](https://www.gnu.org/software/sed/manual/sed.html) (stream editor) is... well, let's just say that nobody likes to use it. 😝
+Unix' default [`sed`](https://www.gnu.org/software/sed/manual/sed.html) (stream editor) is… well, let's just say that nobody likes to use it. 😝
 
 So, `sd` is the arguably better alternative. It's more intuitive and has different defaults.
 
@@ -285,8 +285,8 @@ plugins=(git colored-man-pages colorize pip python macos docker kubectl)
 
 ## Java Virtual Machines
 
-I usually need a JVM environment. You may be aware of the Java licensing change... basically, Oracle [changed their Java license](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244), so their JDK and JRE are not commercially usable anymore. Not for free, anyway...
-**Update**: it seems like they changed back to free licensing. But no thanks.
+I usually need a JVM environment. You may be aware of the Java licensing change… basically, Oracle [changed their Java license](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244), so their JDK and JRE are not commercially usable anymore. Not for free, anyway…
+**Update**: it seems like they changed back to free licensing. But yeah… no thanks.
 
 The "open" version of Java is still free, and can be installed through Homebrew from [AdoptOpenJDK](https://github.com/AdoptOpenJDK/homebrew-openjdk#other-versions), for example.
 
@@ -319,66 +319,18 @@ export PATH=$SCRIPTS_HOME:$PATH
 export PATH=$LOCAL_LINKS:$PATH
 ```
 
-Did I mention you can also install a local distribution of Gradle (`brew install gradle`)?
+Oh, did I already mention you can also install a local distribution of Gradle using `brew install gradle`?
 
 ## IDEs
 
-To manage my IDEs, I use [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app) with [sync settings to remote repo](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html#IDE_settings_sync) feature turned on. You can store settings in a private GitHub repository, for example.
+To manage my main IDEs, I use [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app) with [sync settings to remote repo](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html#IDE_settings_sync) feature turned on. You can store settings in a private GitHub repository, for example.
 
-My other tools are automatically updated anyway, so no need to worry about them.
+My other tools and code editors are automatically updated anyway, so no need to worry about them.
 
-## Tips and Tools
-
-What else do you need?
-
-#### Pro tips
+##### Other tips
 
 - Check for discounts at [Humble Bundle](https://www.humblebundle.com) and [Stack Social](https://stacksocial.com)
 - Migrating your scripts? I use `~/Scripts` to store all of mine, this way I can backup and restore easily using a single Git repository
 - Migrating XCode configuration? It's in `~/Library/Developer/Xcode/UserData`, including key mappings and color configurations
 
-#### Productivity tools
-
-- Better Spotlight? It's a must-have, try [Raycast](https://www.raycast.com/)
-- A good Calendar app? [Fantastical 2](https://flexibits.com/fantastical)
-- A good Email client, finally? [Air Mail](https://airmailapp.com) or [MimeStream](https://mimestream.com)
-- An open-source, cross-platform password manager? [BitWarden](https://bitwarden.com)
-- Your MenuBar is too busy? You have a notch? Hide the clutter with ~~[Vanilla](https://matthewpalmer.net/vanilla) (paid)~~, [Hidden Bar](https://github.com/dwarvesf/hidden) (free) or [Barbee](https://apps.apple.com/us/app/barbee-hide-menu-bar-items/id1548711022?mt=12) (free or paid)
-- Clipboard manager? [Copy Clip](https://fiplab.com/apps/copyclip-for-mac) works perfectly, it's a **must have**
-- All-in-one messenger? [Rambox](https://rambox.app) or [Franz](https://meetfranz.com)
-- You miss your split-window feature from Windows? No problem, [Magnet](https://apps.apple.com/de/app/magnet/id441258766?l=en&mt=12)'s got you covered
-- Customizable app switcher? I used to recommend [Command-Tab Plus](https://noteifyapp.com/command-tab-plus), but it's paid... while [Alt-Tab](https://github.com/lwouis/alt-tab-macos) is free and covers the same features, more or less
-- ~~Tracking your time? **Clockify**. It has a Mac app and it's easy to use~~
-**`NO. SAY NO TO TIME TRACKING.`**
-
-#### Graphics tools
-
-- A great screenshot tool? [Shottr](https://shottr.cc) or [Lightshot](https://app.prntscr.com)
-- Vector graphics editor? [Affinity Designer](https://affinity.serif.com/en-us) (paid), or [BoxySVG](https://boxy-svg.com) (paid). [Inkscape](https://inkscape.org) is free but not great
-- Raster graphics editor? [Affinity Photo](https://affinity.serif.com/en-us) (paid), [GIMP](https://www.gimp.org) (free) or [Seashore](https://apps.apple.com/de/app/seashore/id1448648921?l=en&mt=12) (free)
-- Desktop publishing software? [Affinity Publisher](https://affinity.serif.com/en-us) (paid)
-- A professional PDF viewer & editor? [PDF Expert](https://pdfexpert.com)
-
-#### Privacy tools
-
-- A fast, reliable, privacy-oriented VPN? [Nord VPN](https://nordvpn.com) is my choice
-- Monitoring your camera and microphone? [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html). They have amazing support!
-
-#### Utilities
-
-- Monitoring your Mac's hardware? [iStatMenus](https://bjango.com/mac/istatmenus) integrates pretty well
-- [Service Station](https://apps.apple.com/de/app/service-station/id1503136033?mt=12) allows you to extend Finder's capabilities (Open with..., custom scripts, etc.)
-- [New File Menu](https://apps.apple.com/de/app/new-file-menu/id1064959555?mt=12), if you're missing your Windows' "new file" menu
-- Your company policy puts your Mac to sleep after 2 minutes? Use [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) to keep it awake
-- Saving your audio books for later? [Open Audible](https://openaudible.org)
-
-#### Development tools
-
-- [Screen Copier (scrcpy)](https://github.com/Genymobile/scrcpy#macos) will mirror your connected Android devices on the desktop, for free
-- [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac#download) allows you to save screenshots, screen recordings and GIFs of your connected Android devices
-- A professional, advanced IDE for iOS and macOS development?
-**Sorry, you're stuck XCode** 😬
-
-#### Other
-
-If you know other interesting products, shoot them to [my Twitter](https://twitter.com/milosmns). I can add them here.
+Be sure to also check out my [Curated list of Mac tools](/2020/03/22/Mac-Curated-List)!
