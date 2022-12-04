@@ -10,7 +10,7 @@ featured: true
 
 ## What is this?
 
-To be clear, I'm not a productivity freak... but I do have a set of tools that I've grown accustomed to and without which I am (or feel) significantly less productive.
+To be clear, I'm not a productivity freak… but I do have a set of tools that I've grown accustomed to and without which I am (or feel) significantly less productive.
 
 This post will be a subjective, up-to-date, and curated list of all the Mac tools I use on a daily basis, with some additional good finds worth trying.
 
@@ -71,7 +71,7 @@ This post will be a subjective, up-to-date, and curated list of all the Mac tool
 
   - Monitoring your Mac's hardware? [iStatMenus](https://bjango.com/mac/istatmenus) integrates pretty well
   - [Service Station](https://apps.apple.com/de/app/service-station/id1503136033?mt=12) allows you to extend Finder's capabilities  
-    _(Open with..., custom scripts, etc.)_
+    _(Open with…, custom scripts, etc.)_
   - [New File Menu](https://apps.apple.com/de/app/new-file-menu/id1064959555?mt=12), if you're missing your Windows' "new file" menu
   - Your company policy puts your Mac to sleep after 2 minutes?  
     Use [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) to keep it awake

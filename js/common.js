@@ -96,7 +96,7 @@ $(document).ready(function() {
     $.ajax({
       url: request_next_link,
       beforeSend: function() {
-        $load_posts_button.text('Loading...');
+        $load_posts_button.text('Loading…');
       }
     }).done(function(data) {
       var posts = $('.grid__post', data);

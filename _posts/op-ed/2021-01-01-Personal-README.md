@@ -5,14 +5,14 @@ description: This is an attempt at a guide for anyone working with me to underst
 date: 2021-01-01 15:00:00 +0100
 image: '/images/posts/brain.jpg'
 tags: [op-ed, readme, workstyle]
-featured: false
+featured: true
 ---
 
 ## Motivation for this
 
 I used to code for 10 hours a day and it was effortless. Nowadays I don't have time for that kind of effort anymore and it's not as effortless as it used to be. My current job is also demanding in other ways, and I need a clear head to not go crazy.
 
-And that's the thing... my programmer brain sometimes helps me, and sometimes it makes things worse. This document is an attempt to create an instruction manual for it.
+And that's the thing… my programmer brain sometimes helps me, and sometimes it makes things worse. This document is an attempt to create an instruction manual for it.
 
 _The opinions here are my own and not those of my organization._
 
@@ -136,9 +136,9 @@ My personality type is **[ENFJ-A](https://www.16personalities.com/enfj-personali
 *Protagonist persona*
 {: refdef}
 
-Like any other personality type, this type has its pros and cons... I can be too detail-oriented, in which case you need to stop me. On the other hand, fairness and equality are very important to me, and I'll go to extremes to achieve them. I'll try not to interrupt you in your work or tell you exactly what to do. Instead, I'll tell you about the goals and motivations and expect you to either question them or help us achieve them together.
+Like any other personality type, this type has its pros and cons… I can be too detail-oriented, in which case you need to stop me. On the other hand, fairness and equality are very important to me, and I'll go to extremes to achieve them. I'll try not to interrupt you in your work or tell you exactly what to do. Instead, I'll tell you about the goals and motivations and expect you to either question them or help us achieve them together.
 
-I don't like meetings, certainly not in the late afternoon... but when I get an invitation, I'm 100% ready and stay until the best decision is made.
+I don't like meetings, certainly not in the late afternoon… but when I get an invitation, I'm 100% ready and stay until the best decision is made.
 
 It's also hard to tell what I'm thinking or feeling (I've been told). You can ask me directly if you're not sure -- I'll tell you! You'll get better at guessing over time.
 
