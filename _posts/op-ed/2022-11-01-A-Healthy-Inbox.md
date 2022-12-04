@@ -97,7 +97,7 @@ To "snooze" things in real life, I put things in front of me. Literally. For exa
 
 -----
 
-## Software help
+## Software helps
 
 As you've seen so far, it's hard to clean up your work inbox, especially if you only have one (black hole) backlog… but luckily, there are plenty of software tools to help you organize. For my personal life, there's not much team or process selection -- it's mostly chaos and we're just supposed to adapt. 😅
 
@@ -194,6 +194,41 @@ When this stuff is coming in a bot message, it allows cross-posting and addition
 
 {:refdef: style="text-align: center;"}
 ![Toolbox](/images/posts/time-management-toolbox.png)
+{: refdef}
+
+-----
+
+## Calendar and Schedules
+
+#### 📅 &nbsp; About meetings…
+
+It's rough and meetings can be a huge productivity killer. The best meeting is **no meeting**. And by that I don't mean you turn down meeting invitations for no reason -- I mean you weigh whether or not you really need a meeting. Maybe you can delegate it to someone, maybe you don't have an agenda, maybe you don't have topics to discuss, or maybe it can be a chat message… then it's okay to skip it. Meetings without a clear agenda (in the title or description) shouldn't happen anyway, because it's impossible to prepare for them, and therefore much of the meeting is spent learning about the context -- rather than problem solving.
+
+To reduce the number of meetings in a day, I use Google Calendar's **[Focus Time](https://support.google.com/calendar/answer/11190973)** and reduce my **[Interviewing Schedule](https://support.google.com/calendar/answer/10729749)** availability. At the same time, my **[Work Hours](https://support.google.com/a/users/answer/9308669)** are also always enabled so I don't get meetings after a certain time of day. My lunch break is also scheduled every day. This setting automatically rejects so many meetings that I'm worried to give the exact number here. 😅
+
+##### Aligning team schedules
+
+Other than that, all the teams I work with have a **Meeting-free day** and an **"Agile day"**. The former is pretty self-explanatory -- a clear blocker in the calendar for the whole team, throughout the day -- while the latter is something we've come to after experimentation. For our Agile day, we try to do all agile ceremonies except the daily standups on a single day, for example every other Monday. This involves meetings like product grooming, tech refinement, retrospective, roadmap and cost risk reviews, etc. Having a dedicated Agile day ensures that engineers have few interruptions during the week and still have all the ceremonies that ensure a steady flow of high quality work.
+
+##### Going the extra mile
+
+I invite all participants and **heavily** <font color="#8F8">color</font> <font color="#AAF">code</font> my calendar, both for my personal and work calendar. If it's not on the calendar, it doesn't happen. This may seem like too much, but it really helps me prioritize and plan my days. Check it out:
+
+{:refdef: style="text-align: center;"}
+![Calendar](/images/posts/time-management-calendar-grouped.png)
+*Color-coded calendar for a real week in September*
+{: refdef}
+
+So I can see **at a glance** what my day will look like. I even import my personal calendar into the same view (with a different color) to see what's coming up after work, because sometimes I go to the office to work when my after-work event is closer to the office.
+
+##### Other tips
+
+At the end of each day, take 15 minutes to look at your calendar for the next day and discard anything you won't do. Try to balance different colors that day. Trust me, you don't want to do the same type of thing all day… variety is good.
+
+And since time is usually at a premium, it's best to schedule a set time on your calendar for your weekly or bi-weekly recurring 1:1 meetings. That way, you can be sure you'll always have a window of time to talk about growth and sensitive issues, whether it's with your direct reports or your supervisor.
+
+{:refdef: style="text-align: center;"}
+![Busy](/images/posts/time-management-busy.png)
 {: refdef}
 
 -----

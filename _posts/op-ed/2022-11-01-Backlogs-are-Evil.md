@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Backlogs are Evil
-description: Are you getting things done? Or are you getting stuck trying to get things done? Maybe you're jumping back and forth between topics? Maybe we had the same problem.
+description: Are you getting things done? Or are you getting stuck trying to get things done? Maybe you're jumping back and forth between topics? Maybe we had the same problem
 date: 2022-11-01 15:00:00 +0100
 image: '/images/posts/car-jam-queue.jpg'
 tags: [op-ed, time, management, organization]
@@ -26,7 +26,7 @@ Want to read something interesting though? I have 0 (zero) TO-DO lists and don't
 
 #### 🎯 &nbsp; The Core Issues
 
-You've probably heard it before: _"Just put that in the backlog"_… and I can't stress enough how bad it is to treat your backlog this way. If you treat your backlog like a black hole, it actually becomes a black hole. A **black hole backlog** is super hard to search, the quality of backlog items is low, it's impossible to skim items quickly, there's no way to get a good overview of priorities, work motivation drops significantly -- and ultimately, you need a professional tool to manage your backlog.
+You've probably heard it before: _"Just put that in the backlog"_… and I can't stress enough how bad it is to treat your backlog this way. If you treat your backlog like a black hole, it actually becomes a black hole. A **black hole backlog** is super hard to search, the quality of backlog items is low, it's impossible to skim items quickly, there's no way to get a good overview of priorities, work motivation drops significantly -- and ultimately, you need a professional tool to manage your backlog -- enter [TODO software of your choice], stage right.
 
 #### 🧽 &nbsp; Refinement Issues
 
@@ -43,10 +43,6 @@ To keep motivation at a high level and make sure you don't lose the thread of br
 #### 🐢 &nbsp; Always Starting, Never Finishing
 
 With black hole backlogs, we often can't focus enough on what's important. An abundance of pending, uncompleted work makes blocked work items a low priority. In this way, new work can be constantly started while the blocked work isn't completed. Ideally, a blocked task should be completed (or discarded) as soon as possible… after all, blockers are a big reason why we do daily standups in the first place. Black hole backlogs give the impression that there's always something else important to do, so blockers go unaddressed for a long time.
-
-#### 🚶🏼‍♂️ &nbsp; Personal life
-
-On a personal level, I see black hole backlogs in my chore lists, such as: pick up this item from there, clean up this area, have this item delivered, buy this item, etc. I believe the same principles of backlog management should apply to personal items, provided you're willing to put in the effort necessary to streamline your workflow.
 
 {:refdef: style="text-align: center;"}
 ![Black Hole](/images/posts/time-management-black-hole.png)
@@ -71,9 +67,7 @@ If you don't have time to read through the rest of the series, I can offer you s
 
 If you're working in a Kanban environment, you're in luck, because **[Work-In-Progress limits](https://www.atlassian.com/agile/kanban/wip-limits)** are really helpful. But WIP limits only address the consequence here, not the cause, so treat them as such. On the other hand, if you're using Scrum, you might try focusing on limiting or removing changes to the Sprint Backlog during a Sprint. In most Scrum implementations, the engineers are the Sprint Owners and they're **[the only ones allowed to change the Sprint](https://scrumguides.org/scrum-guide.html#artifacts-sprintbacklog)** while it's still running.
 
-For my personal life backlog, I tend to divide the work into sprints that last **no longer than 2 hours** -- that way I have enough time to get things done, but I won't waste a whole day on chores. I break this rule as much as anyone, but it's a good one to keep.
-
-Back to work stuff. Tracking **[cycle time](https://www.lean.org/lexicon-terms/cycle-time)** and **[lead time](https://pm.stackexchange.com/a/15622)** is also helpful because it identifies areas where work in progress can be done more efficiently. The most basic idea is to try to _work on as few issues in parallel as possible_. A colleague recently pointed me to improvement strategies in this area (thanks [Leandro](https://www.linkedin.com/in/leandrolages)), so now I can recommend some resources:
+Tracking **[cycle time](https://www.lean.org/lexicon-terms/cycle-time)** and **[lead time](https://pm.stackexchange.com/a/15622)** is also helpful because it identifies areas where work in progress can be done more efficiently. The most basic idea is to try to _work on as few issues in parallel as possible_. A colleague recently pointed me to improvement strategies in this area (thanks [Leandro](https://www.linkedin.com/in/leandrolages)), so now I can recommend some resources:
 
   - 👀 &nbsp; [Avoid the Resource Utilization Trap](https://youtu.be/CostXs2p6r0)
   - 👀 &nbsp; [Multiple WIP articles vs. single-part flow](https://youtu.be/Yqi9Gwt-OEA)
@@ -112,7 +106,11 @@ This is only about long-term ideas, not flashes of inspiration that come now and
 *A fancy version of a Tech Radar*
 {: refdef}
 
-In my personal life, I don't do this. At work, I think it's important to meet with the team from time to time and review the radar. It doesn't have to follow this format, but it should be a list of ideas and suggestions that don't require urgent resolution. Initiatives and ideas that get a high priority (after team discussions) can be moved to the Discovery Board where they'll be studied and prepared for engineering. Rejecting requests is a whole other story, which I write about in the **Prioritization** section of this series.
+I think it's important to meet with the team from time to time and review the radar. It doesn't have to follow this format, but it should be a list of ideas and suggestions that don't require urgent resolution. Initiatives and ideas that get a high priority (after team discussions) can be moved to the Discovery Board where they'll be studied and prepared for engineering. Rejecting requests is a whole other story, which I write about in the **Prioritization** section of this series.
+
+#### 👨‍👩‍👦 &nbsp; Personal life
+
+On a personal level, I see black hole backlogs in my chore lists, such as: pick up this item from there, clean up this area, have this item delivered, buy this item, etc. I believe the same principles of backlog management should apply to personal items, provided you're willing to put in the effort necessary to streamline your workflow. I just don't apply the Radar concept. For that "backlog", I try to divide the work into sprints that last **no longer than 2 hours** -- that way I have enough time to get things done, but I won't waste a whole day on chores. I break this rule as much as anyone, but it's a good one to keep.
 
 {:refdef: style="text-align: center;"}
 ![Solutions](/images/posts/time-management-idea.png)
@@ -131,5 +129,3 @@ So I think it's safer now to tell people that **<font color="#F88">backlogs are 
 {:refdef: style="text-align: center;"}
 ![Thank you](/images/posts/time-management-pray.png)
 {: refdef}
-
------

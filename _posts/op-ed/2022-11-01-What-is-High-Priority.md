@@ -1,8 +1,7 @@
 ---
 layout: post
 title: What is High Priority?
-description: >
-  "That doesn't matter!" – it's said far too often, isn't it? But did you know that we often don't consider facts and conditions when we think about priorities?
+description: That doesn't matter! – it's said far too often, isn't it? But did you know that we often don't consider facts and conditions when we think about priorities?
 date: 2022-11-01 16:00:00 +0100
 image: '/images/posts/prism-crystal.jpg'
 tags: [op-ed, time, management, organization]
@@ -50,8 +49,10 @@ Visualizations are nice, but let's also clarify. Remember that all classificatio
 *The Priority Matrix (Nike don't sue me)*
 {: refdef}
 
+As [Sofija](https://www.linkedin.com/in/sofija-stojadinovic-524b0b175) mentions [here](https://github.com/milosmns/milosmns.github.io/pull/2#discussion_r1031378276), this is a variation of the [Eisenhower Matrix](https://www.eisenhower.me/eisenhower-matrix). Let's see how my interpretation differs.
+
 **1. Urgent, but _Not_ Impactful**: "Just do it."  
-These are the things I really don't want to do, because I don't think they're important (yet). But these things tend to escalate quickly if ignored. For example, my day-to-day work includes updating security libraries, understanding a rare bug in the Canary deployment, investigating a sudden drop in analytics events or a spike in costs, approving access requests, etc. I usually force myself to do these things right away because they get done quickly and don't mess up my schedule at all. Waiting can cause them to be moved to the next category here, which I don't want.
+These are the things I really don't want to do, because I don't think they're important (yet). But these things tend to escalate quickly if ignored. For example, my day-to-day work includes updating security libraries, understanding a rare bug in the Canary deployment, investigating a sudden drop in analytics events, checking on a spike in costs, approving access requests, etc. I usually force myself to do these things right away if they're small, because small things get done quickly and don't mess up my schedule at all. Waiting can cause them to be moved to the next category here, which I don't want. If the work items are large, they must also be impactful (next category) or simply divided into smaller units of work.
 
 **2. Urgent and Impactful**: "This is your next task!"  
 There's nothing more impactful or urgent than these things. If it's a problem, it can't escalate any further because it's already at its worst… an example is a critical bug in our production environment. If we're referring to new tech or product initiatives, that's the one that will benefit your users the most… for example, the ability to edit messages in a chat app, or the ability to tip the courier in a food delivery app. These are things that usually take a lot of time to implement, but are of great benefit to both the users and our organization.
@@ -149,9 +150,7 @@ The best read on this so far:
 
 -----
 
-## Tools and hacks
-
-#### 🔕 &nbsp; When you're busy, you're busy
+## When you're busy, you're busy
 
 This goes hand in hand with the basic framework I described above. Again, engineering resources don't just simply grow when you need them, so it's not possible to make up engineering time that doesn't exist. That's why I think it's very important that people in the environment understand the constraints of each team member… to be clear, I have limited time to work, limited team resources, and a pretty fixed schedule. This framework ensures that I finish my work on time (or almost on time), which in turn guarantees that I have time for a life outside of work as well.
 
@@ -162,42 +161,13 @@ I'm a firm believer that all requests, inquiries, and questions (personal or pro
 *Example of a Slack profile with DND mode and Calendar status*
 {: refdef}
 
-#### 📅 &nbsp; About meetings…
-
-It's rough and meetings can be a huge productivity killer. The best meeting is **no meeting**. And by that I don't mean you turn down meeting invitations for no reason -- I mean you weigh whether or not you really need a meeting. Maybe you can delegate it to someone, maybe you don't have an agenda, maybe you don't have topics to discuss, or maybe it can be a chat message… then it's okay to skip it. Meetings without a clear agenda (in the title or description) shouldn't happen anyway, because it's impossible to prepare for them, and therefore much of the meeting is spent learning about the context -- rather than problem solving.
-
-To reduce the number of meetings in a day, I use Google Calendar's **[Focus Time](https://support.google.com/calendar/answer/11190973)** and reduce my **[Interviewing Schedule](https://support.google.com/calendar/answer/10729749)** availability. At the same time, my **[Work Hours](https://support.google.com/a/users/answer/9308669)** are also always enabled so I don't get meetings after a certain time of day. My lunch break is also scheduled every day. This setting automatically rejects so many meetings that I'm worried to give the exact number here. 😅
-
-##### Aligning team schedules
-
-Other than that, all the teams I work with have a **Meeting-free day** and an **"Agile day"**. The former is pretty self-explanatory -- a clear blocker in the calendar for the whole team, throughout the day -- while the latter is something we've come to after experimentation. For our Agile day, we try to do all agile ceremonies except the daily standups on a single day, for example every other Monday. This involves meetings like product grooming, tech refinement, retrospective, roadmap and cost risk reviews, etc. Having a dedicated Agile day ensures that engineers have few interruptions during the week and still have all the ceremonies that ensure a steady flow of high quality work.
-
-##### Going the extra mile
-
-I invite all participants and **heavily** <font color="#8F8">color</font> <font color="#AAF">code</font> my calendar, both for my personal and work calendar. If it's not on the calendar, it doesn't happen. This may seem like too much, but it really helps me prioritize and plan my days. Check it out:
-
-{:refdef: style="text-align: center;"}
-![Calendar](/images/posts/time-management-calendar-grouped.png)
-*Color-coded calendar for a real week in September*
-{: refdef}
-
-So I can see **at a glance** what my day will look like. I even import my personal calendar into the same view (with a different color) to see what's coming up after work, because sometimes I go to the office to work when my after-work event is closer to the office.
-
-##### Other tips
-
-At the end of each day, take 15 minutes to look at your calendar for the next day and discard anything you won't do. Try to balance different colors that day. Trust me, you don't want to do the same type of thing all day… variety is good.
-
-And since time is usually at a premium, it's best to schedule a set time on your calendar for your weekly or bi-weekly recurring 1:1 meetings. That way, you can be sure you'll always have a window of time to talk about growth and sensitive issues, whether it's with your direct reports or your supervisor.
-
-{:refdef: style="text-align: center;"}
-![Busy](/images/posts/time-management-busy.png)
-{: refdef}
+There's more to this in the rest of this series.
 
 -----
 
 ## In conclusion…
 
-It's really hard to prioritize, and I can't stress enough that there's no silver bullet. As we part ways here, I'd like to leave you with a nice quote from the man who restructured Intel into a successful company:
+It's really hard to prioritize, and I can't stress enough that there's no silver bullet. As we part ways here, I'd like to leave you with a nice quote from the man who grew Intel into a successful and healthy corporation:
 
 > My day ends when I am tired and ready to go home, not when I'm done. I am never done.
 > There is always more to be done, more that should be done, always more than can be done.
@@ -213,5 +183,3 @@ Recommended reading (by the same author):
 {:refdef: style="text-align: center;"}
 ![Thank you](/images/posts/time-management-pray.png)
 {: refdef}
-
------
