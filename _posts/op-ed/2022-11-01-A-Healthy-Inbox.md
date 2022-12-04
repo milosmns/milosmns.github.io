@@ -3,7 +3,7 @@ layout: post
 title: A Healthy Inbox
 description: The "Zero Inbox" policy and how adjacent tools help clear the clutter
 date: 2022-11-01 17:00:00 +0100
-image: '/images/posts/post-office-mailboxes.jpg'
+image: '/images/posts/empty-stickies.jpg'
 tags: [op-ed, time, management, organization]
 featured: false
 ---
@@ -218,5 +218,3 @@ Recommended reading on these topics:
 {:refdef: style="text-align: center;"}
 ![We're done](/images/posts/time-management-goal.png)
 {: refdef}
-
------
