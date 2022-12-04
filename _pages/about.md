@@ -9,7 +9,7 @@ image: '/images/pages/me.jpg'
 
 I write here about software, tech and tech organizations. _(for the most part)_
 
-#### Why though?
+#### 🤔 &nbsp; <font color="#F88">Why though</font>?
 
 I like to share ideas through presentations and writing.
 
@@ -19,9 +19,9 @@ I am a software enthusiast, product developer, technical leader, speaker, event 
 My main interests are organizations, apps, cloud, electronics and smart devices.
 I also often read or listen about innovation, computer science, and organizational management.
 
-In my spare time, I (try to) travel, speak at conferences, coach, and work on open-source projects.
+In my spare time, I (try to) travel with my family, speak at conferences, coach, and work on open-source projects.
 
-## Connect with me
+#### ⚡️ &nbsp; Connect with me
 
 You can find me on the most important social platforms with my usual handle:
 
@@ -31,4 +31,4 @@ You can find me on the most important social platforms with my usual handle:
 
 *(or click the social buttons below)*
 
-If you want to get in touch right now, use the [contact page](/contact).
+If you want to get in touch right now, use the **[contact page](/contact)**.

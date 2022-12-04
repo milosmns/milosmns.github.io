@@ -165,6 +165,14 @@
       text-decoration: none;
     }
   }
+  p {
+    text-align: justify;
+  }
+  blockquote {
+    p {
+      text-align: left;
+    }
+  }
 }
 
 /* Post Share */
