@@ -158,10 +158,10 @@
 .page__content {
   color: $gray;
   a {
-    border-bottom: 2px solid rgba($brand-color, .3);
+    border-bottom: 2px dotted rgba($brand-color, .8);
     &:hover {
-      border-color: $brand-color;
-      color: $text-color;
+      color: $brand-color;
+      border-color: $text-color;
       text-decoration: none;
     }
   }
