@@ -167,6 +167,13 @@ In no particular order, I'll list some of the tools that most agile teams use to
 
 When I organize my personal life, I add my work account as an invitee to all reminders and calendar appointments (doctor, embassy, cinema, etc.). I have such invitations automatically cloned into our family calendar, so that my wife can "benefit" (she says: 🙄) from my organizational skills too -- that's how I don't miss anything and am always informed about personal and work events. It's all neatly integrated into Raycast and just a couple of keystrokes away!
 
+Here's my stat sheet for the last half of this year:
+
+{:refdef: style="text-align: center;"}
+![Raycast Usage](/images/posts/time-management-raycast-usage.png)
+*Raycast stat sheet*
+{: refdef}
+
 ##### Automation &nbsp; 🤖
 
 Any engineer will tell you -- if you can automate something, invest time to automate it. The only thing you can do better is to remove it! 😅
