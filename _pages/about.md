@@ -23,7 +23,7 @@ In my spare time, I (try to) travel with my family, speak at conferences, coach,
 
 #### ⚡️ &nbsp; Connect with me
 
-You can find me on the most important social platforms with my usual handle:
+You can find me on the most important social platforms using my usual handle:
 
 ```
   @ milosmns
@@ -31,4 +31,5 @@ You can find me on the most important social platforms with my usual handle:
 
 *(or click the social buttons below)*
 
-If you want to get in touch right now, use the **[contact page](/contact)**.
+If you want to get in touch about this blog, use the [contact page](/contact).  
+I will not respond to spam. However, if you just want to say **hi** for no particular reason and have a chat, send me an email to [`hi` (at this domain)](mailto:hi@milos.marinkovic.xyz).
