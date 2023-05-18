@@ -2,7 +2,7 @@
 # General Site Settings
 title: Blog by Milos Marinkovic
 logo: '/images/brand/logo.png'
-description: This blog is my personal space where I write about technology, organization, business, life hacks… but sometimes I also rant about random things. My opinions presented here are my own.
+description: Embark on a captivating digital journey through my personal blog, where we delve into technology, organization, business, life hacks, and the occasional random rant. Join me as we explore innovation, personal growth, and unexpected discoveries, while experiencing the unique perspectives and opinions that are exclusively my own.
 keywords: milos, marinkovic, tech, blog, posts, writing, journal, diary, personal, space, paper, developer, product, lead, engineer, profile, organization, skill
 baseurl: "" # subpath, e.g. /blog
 url: "https://milos.marinkovic.xyz" # include protocol
@@ -18,8 +18,8 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Make the ordinary unforgettable.
-  description: Sharing my thoughts, stories, ideas.
+  title: Find magic in the ordinary.
+  description: A collection of thoughts, stories, ideas.
   image: '/images/brand/hero.jpg'
 
 
