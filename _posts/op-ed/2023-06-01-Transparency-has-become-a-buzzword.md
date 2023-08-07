@@ -166,16 +166,16 @@ Otherwise, you rule with an iron fist, at the risk of creating a culture of fear
 
 #### 🔺 &nbsp; The top seat is the least stable one
 
-Keep the story I just shared in mind as we conclude. As an organizational leader, you may occupy the top position, but it's important to remember that it is within your specific hierarchy and organization. Your position is not guaranteed and is subject to performance. You are sitting on an unstable chair, constantly facing strong winds that threaten to bring you down.
+Keep the story I just shared in mind as we conclude. As an organizational leader, you may occupy the top position, but it's important to remember that it is within your specific hierarchy and organization. Your position is not guaranteed and is subject to performance. You are sitting on a shaky chair, constantly facing strong winds that threaten to bring you down.
 
-To find some peace in your role, I think it is crucial to establish a solid foundation under that chair. You are the one responsible for:
+I think it is crucial to establish a solid foundation under that chair. You are responsible for:
 
   - Formulating the right strategy
   - Ensuring appropriate levels of transparency
   - Establishing the foundational pillars of your organizational culture
   - Cultivating a culture of self-correction within that organization
 
-… unless you are comfortable with leading through fear. And **I am not.**
+There are many ways to deliver work with those responsibilities in mind. However, there is only one way to do that sustainably – and that's with the support of all the people in your reporting line. They need to be your partners and not minions… unless you are comfortable with leading through fear, while they love blindly executing directions. I am not, either.
 
 {:refdef: style="text-align: center;"}
 ![Foundation](/images/posts/transparency-foundation.png)
