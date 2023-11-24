@@ -76,6 +76,7 @@ This post will be a subjective, up-to-date, and curated list of all the Mac tool
   - Your company policy puts your Mac to sleep after 2 minutes?  
     Use [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) to keep it awake
   - Saving your audio books for later? [Open Audible](https://openaudible.org)
+  - Want to control multiple monitors' brightness at once? Check out [Monitor Control](https://github.com/MonitorControl/MonitorControl#readme)
 
 {:refdef: style="text-align: center;"}
 ![Utilities](/images/posts/curated-mac-utilities.png)
