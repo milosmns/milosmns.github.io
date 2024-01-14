@@ -704,6 +704,6 @@ FodyWeavers.xsd
 # Custom additions
 
 .jekyll-cache/
-_site/
-images/.DS_Store
 .jekyll-metadata
+_site/
+*.DS_Store
