@@ -5,7 +5,7 @@ description: This is an attempt at a guide for anyone working with me to underst
 date: 2021-01-01 15:00:00 +0100
 image: '/images/posts/brain.jpg'
 tags: [op-ed, readme, workstyle]
-featured: false
+featured: true
 ---
 
 ## Motivation for this

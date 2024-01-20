@@ -4,7 +4,7 @@ title: A curated list of Mac tools
 description: This is my personal, curated list of tools that I use on my computers for my daily work
 date: 2020-03-22 15:00:00 +0100
 image: '/images/posts/laptop-on-bed.jpg'
-tags: [op-ed, mac, setup]
+tags: [op-ed, mac, software, setup]
 featured: true
 ---
 

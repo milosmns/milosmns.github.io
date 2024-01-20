@@ -5,7 +5,7 @@ description: I am exploring openness, accountability, timely disclosure, robust 
 date: 2023-06-01 15:00:00 +0100
 image: '/images/posts/meeting-room.png'
 tags: [op-ed, blog, writing, tech, leadership]
-featured: true
+featured: false
 ---
 
 {:refdef: style="text-align: center;"}

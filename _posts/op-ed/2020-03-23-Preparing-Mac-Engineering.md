@@ -4,7 +4,7 @@ title: Preparing a Mac for Engineering work
 description: It's a bunch of little things that I do whenever I need to set up my Mac for development or other engineering work
 date: 2020-03-23 15:00:00 +0100
 image: '/images/posts/work-desk-mac.jpg'
-tags: [op-ed, mac, setup]
+tags: [op-ed, mac, software, setup]
 featured: false
 ---
 

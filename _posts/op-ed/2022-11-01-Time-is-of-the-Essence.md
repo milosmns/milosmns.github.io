@@ -5,7 +5,7 @@ description: Time… the only irreplaceable resource… it can be both a friend 
 date: 2022-11-01 10:00:00 +0100
 image: '/images/posts/hourglass.jpg'
 tags: [op-ed, time, management, organization]
-featured: true
+featured: false
 ---
 
 #### Times are tough
