@@ -1,8 +1,10 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 gem "bundler"
 gem "liquid", "~> 4.0.4"
-gem "jekyll"
+gem "jekyll", "~> 4.3.3"
 gem "jekyll-paginate"
-gem 'jekyll-tagging'
+gem "jekyll-tagging"
 gem "jekyll-sitemap"
+gem "jekyll-sass-converter", "~> 3.0"
 gem "webrick", "~> 1.7"
+gem "faraday-retry", "~> 2.2"
