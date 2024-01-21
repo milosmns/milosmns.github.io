@@ -3,7 +3,7 @@ layout: post
 title: The Art of Readable Code
 description: A not so deep dive into the nuances of code readability and maintainability, examining the subjective nature of what makes code readable, weird programming languages and personal preferences
 
-date: 2023-06-01 15:00:00 +0100
+date: 2024-01-20 15:00:00 +0100
 image: '/images/posts/coded-maze.png'
 tags: [op-ed, blog, writing, tech, software]
 featured: true
