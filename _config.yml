@@ -18,8 +18,8 @@ author:
 #-------------------------------
 # Hero Settings
 hero:
-  title: Search for magic in the ordinary.
-  description: A collection of thoughts, stories, ideas.
+  title: Search for magic in the ordinary
+  description: A collection of thoughts, stories, ideas
   image: '/images/brand/hero.jpg'
 
 
