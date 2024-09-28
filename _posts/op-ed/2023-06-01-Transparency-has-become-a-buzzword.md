@@ -69,7 +69,7 @@ Let's go in the opposite direction for a little bit, and acknowledge one thing f
 
 I hope that we agree that all of these are valid, and there are probably more similar situations where transparency can lead to harm rather than good.
 
-#### 🌱 &nbsp; Transparency is also beneficial
+#### 🌱 &nbsp; But transparency is primarily beneficial
 
 Taking the other point of view, we can argue the following:
 
@@ -84,9 +84,9 @@ I hope that we can agree on the validity of these statements, as well as acknowl
 
 #### 🙋‍♂️ &nbsp; So… is Transparency a Buzzword?
 
-As much as I dislike the current state of affairs, it is evident that the term "transparency" has become overused, misused, and abused. Paradoxically, it is also frequently underutilized… all of which, combined, has turned it into a buzzword. So, **<font color="#F88">Yes</font>**.
+As much as I dislike the current Internet/office culture, it is evident that the term "transparency" has become overused, misused, and abused. Paradoxically, it is also frequently underutilized… all of which, combined, has turned it into a buzzword. So, I think **<font color="#F88">Yes</font>**.
 
-I think that this situation is an unfortunate consequence of intense marketing efforts coming from various big corporations, in an attempt to convince the wider audience of a certain brand image they'd like to stand behind. This is not a protest note against corporations – it would be quite ironic to write that – but instead an attempt to understand how we got to this state and what can be done to improve it.
+I believe that this situation is an unfortunate consequence of intense marketing efforts coming from various big corporations, in an attempt to convince the wider audience of a certain brand image they'd like to stand behind. This is not a protest note against corporations – it would be quite ironic to write that – but instead an attempt to understand how we got to this state and what can be done to improve it.
 
 Recommendations related to this section:
 
@@ -116,9 +116,9 @@ Therefore, the main argument here is to allow people to choose whether they want
 
 #### 🤨 &nbsp; Some different opinions
 
-Yes, I argue with myself and seek out others who disagree. So what…
+Yes, I will argue with myself now…
 
-Anyway, to counter this, you may say that transparency is not about the content or context of information, but rather about accessibility of context. Manipulation of content and context can shape narratives – for example, [greenwashing](https://en.wikipedia.org/wiki/Greenwashing) – a simple marketing strategy that involves misleading the public by exaggerating an organization's "green" activities while hiding environmentally destructive practices.
+To counter the previous claims, you may say that transparency is not about the content or context of information, but rather about accessibility of context. Manipulation of content and context can shape narratives – for example, [greenwashing](https://en.wikipedia.org/wiki/Greenwashing) – a simple marketing strategy that involves misleading the public by exaggerating an organization's "green" activities while hiding environmentally destructive practices.
 
 It looks like it's a different perspective, but I do agree with this. The idea of allowing individuals to opt-in for transparent decision-making and emphasizing accountability aligns well with my point of view. Transparency is indeed a catalyst for accountability, change, and social progress. It is crucial for influential individuals to take the lead in claiming and fostering transparency.
 
@@ -154,28 +154,32 @@ Given my obvious inclination, I'll leave it to you to draw conclusions from this
 
 #### 🕯️ &nbsp; Story time
 
-Let me tell you a possibly fictional story about a corporate manager who attended a conference and felt genuinely valued.
+Let's follow Simon's line of thinking again, and let me tell you a seemingly fictional story about a corporate manager who attended a conference.
 
 This manager represented his company at the conference and was treated as an important guest. The conference organizers arranged a hotel for him, provided a car with a driver to take him to the venue, and organized a delightful lunch with the event organizers. He even received a personalized cup with his name on it. The warm greetings and immense respect from everyone made him feel truly great.
 
 The following year, he made a career move and started working remotely for a smaller startup. Excited to attend the same conference again, he looked forward to a similar experience. However, to his surprise, nobody seemed to remember him. There was no car, no hotel booking, and no personalized cup… instead, he was handed a regular plastic cup, just like everyone else. It was at that moment he realized that the people he interacted with previously only valued his business engagement at the time, and his importance was only tied to his business title.
 
-This story sheds light on how easily people can mistake business influence, authority, and hierarchy for personal value. It's a phenomenon that occurs more frequently than one might think. Respect and authority do not magically appear simply because of a given title. These values must be earned, whether you hold a lower position in the hierarchy or sit at the top.
+This story sheds light on how easily people can mistake business influence, authority, and hierarchy for personal value. It's a phenomenon that occurs more frequently than one might think. Respect and authority do not magically appear simply because of a given title.
 
-Otherwise, you rule with an iron fist, at the risk of creating a culture of fear within your group. In this toxic environment, individuals are constantly on guard – mistrusting one another, holding knives against each other's backs, and focusing only on survival.
+These values must be earned, whether you hold a lower position in the hierarchy or sit at the top. Otherwise, you rule with an iron fist, at the risk of creating a culture of fear within your group. In this toxic environment, individuals are constantly on guard – mistrusting one another, holding knives against each other's backs, and focusing only on survival.
 
-#### 🔺 &nbsp; The top seat is the least stable one
+#### 🔺 &nbsp; The top seat is an unstable one
 
-Keep the story I just shared in mind as we conclude. As an organizational leader, you may occupy the top position, but it's important to remember that it is within your specific hierarchy and organization. Your position is not guaranteed and is subject to performance. You are sitting on a shaky chair, constantly facing strong winds that threaten to bring you down.
+_Keep that story in mind as we conclude._
 
-I think it is crucial to establish a solid foundation under that chair. You are responsible for:
+As an organizational leader, you occupy that top position. It's important to remember that your position is within your specific hierarchy and organization. Your position is not guaranteed, and is subject to performance. You are sitting in a shaky chair, constantly facing strong winds that threaten to bring you down.
+
+It is a top priority to establish a solid foundation under that chair. You are responsible for:
 
   - Formulating the right strategy
   - Ensuring appropriate levels of transparency
   - Establishing the foundational pillars of your organizational culture
   - Cultivating a culture of self-correction within that organization
 
-There are many ways to deliver work with those responsibilities in mind. However, there is only one way to do that sustainably – and that's with the support of all the people in your reporting line. They need to be your partners and not minions… unless you are comfortable with leading through fear, while they love blindly executing directions. I am not, either.
+There are many ways to deliver work with those responsibilities in mind. However, there is only one way to do that sustainably – and that's with the support of all the people in your reporting line. They need to be your partners, and not your minions… unless you are comfortable with leading through fear, expecting them to blindly execute your directives. 
+
+Yeah, I am **not** comfortable with that, either.
 
 {:refdef: style="text-align: center;"}
 ![Foundation](/images/posts/transparency-foundation.png)

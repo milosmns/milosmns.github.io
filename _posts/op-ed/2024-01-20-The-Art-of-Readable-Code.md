@@ -6,7 +6,7 @@ description: A not so deep dive into the nuances of code readability and maintai
 date: 2024-01-20 15:00:00 +0100
 image: '/images/posts/coded-maze.png'
 tags: [op-ed, blog, writing, tech, software]
-featured: true
+featured: false
 ---
 
 {:refdef: style="text-align: center;"}
