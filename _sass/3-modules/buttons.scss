@@ -1,3 +1,5 @@
+@use 'sass:color';
+
 /* Buttons */
 .button {
   display: inline-block;
@@ -7,6 +9,7 @@
   border: none;
   border-radius: 8px;
   outline: none;
+  appearance: none;
   -webkit-appearance: none;
   text-align: center;
   text-decoration: none;
@@ -25,7 +28,7 @@
     background-color: $blue-dark;
     &:hover {
       color: $dark;
-      background-color: darken($brand-color, 5%);
+      background-color: color.adjust($brand-color, $lightness: -5%);
     }
   }
 
