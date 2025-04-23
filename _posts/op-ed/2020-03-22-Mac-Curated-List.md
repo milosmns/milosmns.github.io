@@ -10,30 +10,27 @@ featured: true
 
 ## What is this?
 
-To be clear, I'm not a productivity freak… but I do have a set of tools that I've grown accustomed to and without which I am (or feel) significantly less productive.
+To start with… I'm **not** a productivity freak (said every productivity freak ever). However, I do have a set of tools that I've grown accustomed to and really rely on. Without these tools, I *feel* significantly less productive – whether that's real or just a perception.
 
-This post will be a subjective, up-to-date, and curated list of all the Mac tools I use on a daily basis, with some additional good finds worth trying.
+This post is more of a guide for myself. It will be subjective, potentially outdated, or not as useful to you as it is to me. It's curated list of all the Mac tools I use, with some additional good new discoveries worth trying out.
 
 -----
 
 ### 🏃 &nbsp; Productivity tools
 
-  - Better Spotlight? It's a must-have, try [Raycast](https://www.raycast.com/)
+  - Better Spotlight? This one is a **must-have**, get [Raycast](https://www.raycast.com)!
   - A good Calendar app? [Fantastical 2](https://flexibits.com/fantastical)
-  - A good Email client, finally? [Air Mail](https://airmailapp.com) or [MimeStream](https://mimestream.com)
-  - An open-source, cross-platform password manager? [BitWarden](https://bitwarden.com).  
-    Although, [NordPass](https://nordpass.com) is also pretty neat
-  - Your MenuBar is too busy? You have a notch?  
-    Hide the clutter with [Hidden Bar](https://github.com/dwarvesf/hidden) (free) or [Bartender](https://www.macbartender.com/) (paid)
-  - Clipboard manager?  
-    [Copy Clip](https://fiplab.com/apps/copyclip-for-mac) is a **must have** if you're not using Rambox/Alfred
-  - All-in-one messenger? [Rambox](https://rambox.app) or [Franz](https://meetfranz.com)
-  - You miss your split-window feature from Windows?  
-    No problem, [Magnet](https://apps.apple.com/de/app/magnet/id441258766?l=en&mt=12)'s got you covered
-  - Customizable app switcher? [Command-Tab Plus](https://noteifyapp.com/command-tab-plus) (paid) or [Alt-Tab](https://github.com/lwouis/alt-tab-macos) (free)
+  - A good Email client, finally? [Spark](https://sparkmailapp.com), [MimeStream](https://mimestream.com) or [Air Mail](https://airmailapp.com)
+  - An open-source, cross-platform password manager? [BitWarden](https://bitwarden.com) or [NordPass](https://nordpass.com)
+  - Your MenuBar is too busy? You have a screen notch? Hide the clutter with [Hidden Bar](https://github.com/dwarvesf/hidden) (free) or [Bartender](https://www.macbartender.com) (better, paid)
+  - An all-in-one social messenger? [Franz](https://meetfranz.com) or [Rambox](https://rambox.app) (better)
+  - You miss your split-window feature from Windows and Linux? No problem, [Magnet](https://apps.apple.com/de/app/magnet/id441258766?l=en&mt=12)'s got you covered
+  - An advanced app switcher? [Command-Tab Plus](https://noteifyapp.com/command-tab-plus) (paid) or [Alt-Tab](https://alt-tab-macos.netlify.app) (better, free)
   - Wondering what's next in your day? [Next Meeting](https://apps.apple.com/us/app/next-meeting/id1017470484?mt=12) will let you know
-  - ~~Tracking your time? **Clockify**. It has a Mac app and it's easy to use~~
-  **`NO. SAY NO TO TIME TRACKING.`**
+  - Interested in using multiple AI tools at the same time? [AnythingLLM](https://anythingllm.com) is great at that!
+  - ~~Clipboard manager? [Copy Clip](https://fiplab.com/apps/copyclip-for-mac)~~ &nbsp; Raycast has it built-in!
+  - ~~Tracking your project time? **Clockify**~~ &nbsp;
+**`SAY 'NO' TO TIME TRACKING.`**
 
 {:refdef: style="text-align: center;"}
 ![Productivity](/images/posts/curated-mac-productivity.png)
@@ -43,11 +40,10 @@ This post will be a subjective, up-to-date, and curated list of all the Mac tool
 
 ### 🎨 &nbsp; Graphics tools
 
-  - A great screenshot tool? [Shottr](https://shottr.cc) or [Lightshot](https://app.prntscr.com)
-  - Vector graphics editor? [Affinity Designer](https://affinity.serif.com/en-us) (paid), or [BoxySVG](https://boxy-svg.com) (paid).  
-    [Inkscape](https://inkscape.org) is free but not great
-  - Raster graphics editor? [Affinity Photo](https://affinity.serif.com/en-us) (paid), [GIMP](https://www.gimp.org) (free) or [Seashore](https://apps.apple.com/de/app/seashore/id1448648921?l=en&mt=12) (free)
-  - Desktop publishing software? [Affinity Publisher](https://affinity.serif.com/en-us) (paid)
+  - A great screenshot tool? [Lightshot](https://app.prntscr.com) or [Shottr](https://shottr.cc) (better)
+  - Vector graphics editor? [Inkscape](https://inkscape.org) (free), [BoxySVG](https://boxy-svg.com) (better, paid), [Affinity Designer](https://affinity.serif.com/en-us/designer) (best, paid)
+  - Raster graphics editor? [GIMP](https://www.gimp.org) (free), [Seashore](https://apps.apple.com/de/app/seashore/id1448648921?l=en&mt=12) (better, free), [Affinity Photo](https://affinity.serif.com/en-us/photo) (best, paid)
+  - Desktop publishing software? [Affinity Publisher](https://affinity.serif.com/en-us/publisher) (paid)
   - A professional PDF viewer & editor? [PDF Expert](https://pdfexpert.com)
 
 {:refdef: style="text-align: center;"}
@@ -56,41 +52,12 @@ This post will be a subjective, up-to-date, and curated list of all the Mac tool
 
 -----
 
-### 🔒 &nbsp; Privacy tools
-
-  - A fast, reliable, privacy-oriented VPN? [Nord VPN](https://nordvpn.com) is my choice
-  - Monitoring your camera and microphone? [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html). They have amazing support!
-
-{:refdef: style="text-align: center;"}
-![Productivity](/images/posts/curated-mac-privacy.png)
-{: refdef}
-
------
-
-### 👀 &nbsp; Utilities
-
-  - Monitoring your Mac's hardware? [iStatMenus](https://bjango.com/mac/istatmenus) integrates pretty well
-  - [Service Station](https://apps.apple.com/de/app/service-station/id1503136033?mt=12) allows you to extend Finder's capabilities  
-    _(Open with…, custom scripts, etc.)_
-  - [New File Menu](https://apps.apple.com/de/app/new-file-menu/id1064959555?mt=12), if you're missing your Windows' "new file" menu
-  - Your company policy puts your Mac to sleep after 2 minutes?  
-    Use [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) to keep it awake
-  - Saving your audio books for later? [Open Audible](https://openaudible.org)
-  - Want to control multiple monitors' brightness at once? Check out [Monitor Control](https://github.com/MonitorControl/MonitorControl#readme)
-
-{:refdef: style="text-align: center;"}
-![Utilities](/images/posts/curated-mac-utilities.png)
-{: refdef}
-
------
-
 ### 👨🏼‍💻 &nbsp; Development tools
 
-  - [Screen Copier (scrcpy)](https://github.com/Genymobile/scrcpy#macos) will mirror your Android devices on the desktop
-  - [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac#download) allows you to save your Android screenshots  
-    _(and screen recordings, and GIFs)_
-  - A professional, advanced IDE for iOS and macOS development?  
-  **Sorry, you're stuck XCode** 😬
+  - [Screen Mirroring (scrcpy)](https://github.com/Genymobile/scrcpy#macos) will mirror your Android devices on the desktop
+  - [Android Tool for Mac](https://github.com/mortenjust/androidtool-mac#download) allows you to save your Android screenshots _(and screen recordings, and GIFs)_
+  - A professional, advanced IDE for iOS and macOS development? &nbsp; **Sorry, you're stuck with XCode** 😬
+  - Using JetBrains code editors? [Toolbox](https://www.jetbrains.com/toolbox-app) is great for configuring IDE versions, syncing user settings, and managing command line tools
 
 {:refdef: style="text-align: center;"}
 ![Dev tools](/images/posts/curated-mac-development.png)
@@ -98,6 +65,32 @@ This post will be a subjective, up-to-date, and curated list of all the Mac tool
 
 -----
 
+### 👀 &nbsp; Utilities
+
+  - Control the monitor using the keyboard? [MonitorControl](https://monitorcontrol.app) works great (even with LG)
+  - Saving your audio books for later? [Open Audible](https://openaudible.org)
+  - Monitoring your Mac's hardware? [iStatMenus](https://bjango.com/mac/istatmenus) integrates pretty well
+  - [Service Station](https://servicestation.menu) allows you to extend Finder's capabilities _(Open with, custom scripts, etc.)_
+  - [New File Menu](https://apps.apple.com/de/app/new-file-menu/id1064959555?mt=12), if you're missing your Windows' "new file" menu
+  - Your company policy puts your Mac to sleep after 2 minutes? Use [Caffeine](https://www.intelliscapesolutions.com/apps/caffeine) to keep it awake
+
+{:refdef: style="text-align: center;"}
+![Utilities](/images/posts/curated-mac-utilities.png)
+{: refdef}
+
+-----
+
+### 🔒 &nbsp; Privacy tools
+
+  - A fast, reliable, privacy-oriented VPN? [Nord VPN](https://nordvpn.com) works well, and [Private Internet Access](https://www.privateinternetaccess.com/pages/buy-a-vpn/1218buyavpn?invite=U2FsdGVkX1-1dNyMhD5StbU28UsoejG43mA5pxTxHAo%2COdC6a6WceTkRre5aXQm9sSh2cRk) is my choice nowadays
+  - Monitoring your camera and microphone? [Micro Snitch](https://www.obdev.at/products/microsnitch/index.html). They have amazing support!
+
+{:refdef: style="text-align: center;"}
+![Privacy](/images/posts/curated-mac-privacy.png)
+{: refdef}
+
+-----
+
 ### 💬 &nbsp; Other
 
-If you know other interesting products, shoot them to [my Twitter](https://twitter.com/milosmns). I can add them here.
+If you know other interesting products and projects, send them over. I'll add them to this list if I like them.
