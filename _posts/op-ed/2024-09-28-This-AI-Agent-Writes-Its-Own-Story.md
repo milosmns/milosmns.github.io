@@ -32,7 +32,7 @@ Fast forward to today, and The Agent isn't just my personal assistant anymore. I
 
 Curious to peek under the hood? Check it out:
 
-  - [The Agent's showcase page](https://the-agent.appifyhub.com)
+  - [The Agent's showcase page](https://agent.appifyhub.com)
   - [The Agent's source code](https://github.com/appifyhub/the-agent)
   - [Meet Agent Abot](https://t.me/the_agent_abot) on Telegram (limited beta)
 
