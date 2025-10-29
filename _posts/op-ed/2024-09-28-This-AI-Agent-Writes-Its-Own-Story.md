@@ -36,6 +36,8 @@ Curious to peek under the hood? Check it out:
   - [The Agent's source code](https://github.com/appifyhub/the-agent)
   - [Meet Agent Abot](https://t.me/the_agent_abot) on Telegram (limited beta)
 
+One early lesson: don't build a clever prison. The mobile era taught us how sticky defaults get – the same gravity is forming in AI. OpenAI, Anthropic, Google, xAI — great companies, great tools, but none deserves a monopoly over your workflow and daily life. From day one, <font color="#FAA">The Agent</font> was designed to keep the doors open: providers are swappable; prompts, history, and artifacts stay portable; and a self-hosted path is always in reach.
+
 I believe that our story is just beginning, so let's learn early! In the next sections, we'll dive into the twists, turns, and teachable moments of bringing this AI agent to life.
 
 {:refdef: style="text-align: center;"}
@@ -48,7 +50,20 @@ I believe that our story is just beginning, so let's learn early! In the next se
 
 I decided to use LLMs to help me write this assistant. I now have a tireless, infinitely patient coding buddy that's digested a significant portion – maybe most – of the code ever written. Call it auto-complete on steroids, sure, but it's also much more than that. Unlike a basic auto-complete plugin, LLMs offer multiple ways to assist in coding.
 
-Similarly to any powerful tool, it's all about how you use it. Prompting an LLM feels like explaining a complex task to a brilliant but overly literal intern. In building The Agent, Claude became my go-to for file analysis and code generation, and I'll show you how I used it.
+Similarly to any powerful tool, it's mostly about how you use it. Prompting an LLM feels like explaining a complex task to a brilliant but overly literal intern. In building The Agent, Claude became my go-to for file analysis and code generation, and in the later sections I'll show you how I used it.
+
+### 🔗 &nbsp; Walled gardens in AI
+
+Let's start this with a basic premise: **single‑provider dependence is risky**.
+
+  1. Access to AI can vanish overnight – violate some opaque section of the Terms of Service or land on the wrong side of a shifting policy, and you're blocked. See: Instagram, Twitter, Reddit... numerous other examples over the years.
+  1. Prices can increase at will. Your data, history, and habits are sunk costs – will you really migrate when it jumps $1 this month… and $1 next month? You'll probably just stay and pay the price. You've been doing this for years with your mobile apps and devices, cloud storage, that favorite app you've been using for years... you know the drill by now.
+  1. None of the mainstream AI companies are profitable. When the bill comes due, the incentives tilt toward monetizing your attention and workflow – including pushing you to use one assistant for everything (which you obviously shouldn't), serving you ads, or reducing the quality of the service.
+  1. If your AI apps are closed and locked down and not open-source, breaking free is impractical – even when you want to. You're unable to export your data, your prompts, your settings, your artifacts, your history, your everything. You're stuck with the company's proprietary format and you're forced to use their services.
+
+This is why AI needs portability and openness by default: open‑source, self‑hostable, and easy to swap parts of the system. Make everything exportable. Avoid hard‑wiring to a single SDK. Prefer adapter layers so models and providers are replaceable. And always keep a self‑hosted path warm – even if you mostly use a hosted one.
+
+With these principles in mind, you can build a more resilient and future-proof AI system. So, let's dive into the details of how I used AI to help me build AI, while AI was reviewing and advising!
 
 ### 👁️ &nbsp; Context
 
