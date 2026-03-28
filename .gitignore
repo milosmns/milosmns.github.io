@@ -707,3 +707,4 @@ FodyWeavers.xsd
 .jekyll-metadata
 _site/
 *.DS_Store
+.DS_Store
