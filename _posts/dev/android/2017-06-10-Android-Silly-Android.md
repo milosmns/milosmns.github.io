@@ -22,7 +22,7 @@ Contributions are welcome:
 
 ### Updates and future releases
 
-An update as per **mori-honest**'s request ([see here](https://github.com/milosmns/silly-android/issues/4)), Silly Android now also includes access to the software keyboard. Read more below.
+An update as per **mori-honest**'s request ([see here](https://github.com/appifyhub/silly-android/issues/4)), Silly Android now also includes access to the software keyboard. Read more below.
 
 To detect when soft keyboard is shown:
 

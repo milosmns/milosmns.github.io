@@ -136,7 +136,7 @@ This is a tough question. A long roadmap is basically a long-term product commit
 *Agile risk management chart*
 {: refdef}
 
-To combat these risk challenges and ensure we're better serving our stakeholders, most teams I work with have recently implemented a **[Continuous Planning](https://www.umt360.com/blog/continuous-planning)** process. Of course, every implementation of this process is different. But from my perspective, I see it as more agile, an iteration of the agile approach to risk reduction applied to the entire roadmap (rather than a single product).
+To combat these risk challenges and ensure we're better serving our stakeholders, most teams I work with have recently implemented a **[Continuous Planning](https://web.archive.org/web/20230930193904/https://www.umt360.com/blog/continuous-planning/)** process. Of course, every implementation of this process is different. But from my perspective, I see it as more agile, an iteration of the agile approach to risk reduction applied to the entire roadmap (rather than a single product).
 
 For each individual case, I'd recommend looking at product release risk history, launch cadence, other [DORA metrics](https://cloud.google.com/blog/products/devops-sre/using-the-four-keys-to-measure-your-devops-performance) and similar data points to decide which process is best. It may be that a long roadmap is better for the team, although that's rarely the case.
 
