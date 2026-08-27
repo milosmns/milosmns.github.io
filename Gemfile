@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 gem "bundler"
 gem "liquid", "~> 4.0.4"
 gem "jekyll"
+gem "logger"
 gem "jekyll-paginate"
 gem 'jekyll-tagging'
 gem "jekyll-sitemap"
