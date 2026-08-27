@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Installing Sublime Test
-description: An opinionated guide
+description: Install Sublime Text 2 on Ubuntu 12.04 through the WebUpd8 repository using add-apt-repository, apt-get update, and apt-get install.
 date: 2015-08-01 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Fun Facts · Performance (Part 3 of 4)
-description: Performance and optimizations in Java, a multi-part series
+description: Compare Java object equality strategies across inherited and unrelated classes, including equals, hashCode, and baseline reference checks.
 date: 2015-09-17 15:00:00 +0100
 image: '/images/posts/java.jpg'
 tags: [dev, software, jvm]

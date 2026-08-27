@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Fixing auto-complete
-description: An opinionated guide
+description: Fix broken Terminal autocomplete on Ubuntu by regenerating locale data and updating the system language settings for your preferred locale.
 date: 2015-08-21 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

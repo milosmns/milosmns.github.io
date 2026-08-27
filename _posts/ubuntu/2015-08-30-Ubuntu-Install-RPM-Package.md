@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Installing RPM packages
-description: An opinionated guide
+description: Convert an RPM package to Debian format with Alien, install the required Ubuntu build tools, and install the resulting DEB package.
 date: 2015-08-30 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

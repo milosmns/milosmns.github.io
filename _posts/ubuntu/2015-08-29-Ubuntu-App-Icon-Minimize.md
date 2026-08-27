@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Minimize apps on icon click
-description: An opinionated guide
+description: Enable click-to-minimize behavior for Ubuntu Unity launcher icons by adding the Minimize Unity 7 PPA and upgrading the required packages.
 date: 2015-08-29 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

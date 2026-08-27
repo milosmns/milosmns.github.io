@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Fun Facts · Performance (Part 4 of 4)
-description: Performance and optimizations in Java, a multi-part series
+description: Benchmark Java class-comparison techniques, including reference equality, equals, class names, instanceof, and assignable-from checks.
 date: 2015-09-18 15:00:00 +0100
 image: '/images/posts/java.jpg'
 tags: [dev, software, jvm]

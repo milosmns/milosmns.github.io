@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · About SuperUser (sudo)
-description: An opinionated guide
+description: Understand Ubuntu's root user and sudo command, when elevated permissions are needed, and how administrator access affects Terminal operations.
 date: 2015-07-29 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

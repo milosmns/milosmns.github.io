@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: Learn about Milos, who he is, what he does, and how to reach out to him.
 permalink: /about/
 image: '/images/pages/me.jpg'
 ---
@@ -31,12 +32,12 @@ You can find me on the most important social platforms using my usual handle:
 
 *(or click the social buttons below)*
 
-If you want to get in touch right now, use the [contact page](/contact).  
+If you want to get in touch right now, use the [contact page](/contact).
 I will not respond to spam. However, if you just want to say **hi** for no particular reason and have a chat, send me an email to [`hi` (at this domain)](mailto:hi@milos.marinkovic.xyz).
 
 #### 🏦 &nbsp; Sources and attribution
 
-I try to use free audio, video and graphic resources, but I build a lot of those on my own too.  
+I try to use free audio, video and graphic resources, but I build a lot of those on my own too.
 Attribution is given to the people at:
 
   - [Unsplash](https://unsplash.com), [FlatIcon](https://www.flaticon.com)

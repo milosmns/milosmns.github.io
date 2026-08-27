@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Installing Oracle's Java 7
-description: An opinionated guide
+description: Install Oracle Java 7 on Ubuntu from the WebUpd8 PPA, update package sources, and verify the java and javac versions from Terminal.
 date: 2015-07-27 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

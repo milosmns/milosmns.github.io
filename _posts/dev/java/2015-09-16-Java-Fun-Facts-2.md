@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Fun Facts · Performance (Part 2 of 4)
-description: Performance and optimizations in Java, a multi-part series
+description: Benchmark Java while loops using indexes, iterators, and cached collection sizes to compare their performance in the second JVM experiment.
 date: 2015-09-16 15:00:00 +0100
 image: '/images/posts/java.jpg'
 tags: [dev, software, jvm]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Creating custom Desktop icons
-description: An opinionated guide
+description: Install GNOME Panel on Ubuntu and use its desktop item editor to create custom application shortcuts with names, commands, and icons.
 date: 2015-08-24 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

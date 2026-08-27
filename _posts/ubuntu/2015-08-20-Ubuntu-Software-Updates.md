@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Software Updates
-description: An opinionated guide
+description: Configure Ubuntu software updates, choose package sources and repositories, switch download mirrors, and refresh available packages from Terminal.
 date: 2015-08-20 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

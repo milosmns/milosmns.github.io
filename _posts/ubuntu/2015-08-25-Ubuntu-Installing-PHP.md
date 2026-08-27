@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Installing PHP
-description: An opinionated guide
+description: Install PHP 5 on Ubuntu from Terminal with apt-get after refreshing system packages, with a note on selecting a different PHP version.
 date: 2015-08-25 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

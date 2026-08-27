@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Java Fun Facts · Performance (Part 1 of 4)
-description: Performance and optimizations in Java, a multi-part series
+description: Compare three Java for-loop styles on ArrayList data and see how caching the list size affects JVM performance in the first experiment of the series.
 date: 2015-09-15 15:00:00 +0100
 image: '/images/posts/java.jpg'
 tags: [dev, software, jvm]

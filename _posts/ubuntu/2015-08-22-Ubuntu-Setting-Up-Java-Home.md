@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Setting up JAVA_HOME environment variable
-description: An opinionated guide
+description: Configure JAVA_HOME and PATH for Oracle Java on Ubuntu in Bash or Zsh by updating the appropriate shell profile and reloading it.
 date: 2015-08-22 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

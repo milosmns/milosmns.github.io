@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Running Runnable files (.run)
-description: An opinionated guide
+description: Make a .run installer executable and launch it from Ubuntu's Terminal, with practical guidance for permissions, sudo, and common failures.
 date: 2015-07-31 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

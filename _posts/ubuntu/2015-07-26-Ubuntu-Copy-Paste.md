@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Copying and Pasting commands
-description: An opinionated guide
+description: Use the correct keyboard shortcuts to copy and paste text in Ubuntu's Terminal, including the Shift modifier and Mac equivalents.
 date: 2015-07-26 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

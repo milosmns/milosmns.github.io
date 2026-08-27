@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Enabling custom status bar icons
-description: An opinionated guide
+description: Enable application icons in Ubuntu's top status bar using Unsettings, including the panel whitelist configuration needed for custom indicators.
 date: 2015-08-28 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

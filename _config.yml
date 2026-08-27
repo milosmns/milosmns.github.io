@@ -2,7 +2,7 @@
 # General Site Settings
 title: Blog by Milos Marinkovic
 logo: '/images/brand/logo.png'
-description: Embark on a captivating digital journey through my personal blog, where we delve into technology, organization, business, life hacks, and the occasional random rant. Join me as we explore innovation, personal growth, and unexpected discoveries, while experiencing the unique perspectives and opinions that are exclusively my own.
+description: A personal blog by Milos Marinkovic covering technology, software engineering, product leadership, organization, useful tools, and everyday discoveries.
 keywords: milos, marinkovic, tech, blog, posts, writing, journal, diary, personal, space, paper, developer, product, lead, engineer, profile, organization, skill
 baseurl: "" # subpath, e.g. /blog
 url: "https://milos.marinkovic.xyz" # include protocol

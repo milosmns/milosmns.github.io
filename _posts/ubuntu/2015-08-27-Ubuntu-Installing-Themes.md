@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Installing Themes
-description: An opinionated guide
+description: Install Ubuntu desktop themes from a PPA, add Unity Tweak Tool, and apply themes, icons, cursors, fonts, and window decorations.
 date: 2015-08-27 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Opening Terminal at current directory
-description: An opinionated guide
+description: Add the Nautilus Open Terminal extension on Ubuntu so you can launch Terminal directly in the directory currently open in the file manager.
 date: 2015-08-23 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

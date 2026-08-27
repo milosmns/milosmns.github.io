@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Entering commands
-description: An opinionated guide
+description: Learn how to open Ubuntu's Terminal, understand the prompt, navigate directories, and run your first commands in this Ubuntu 12.04 guide.
 date: 2015-07-25 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

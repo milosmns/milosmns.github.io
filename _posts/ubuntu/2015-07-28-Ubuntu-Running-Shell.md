@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Running Shell files (.sh)
-description: An opinionated guide
+description: Make a .sh file executable and run it from Ubuntu's Terminal, with guidance for paths, permissions, sudo, and common execution errors.
 date: 2015-07-28 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]

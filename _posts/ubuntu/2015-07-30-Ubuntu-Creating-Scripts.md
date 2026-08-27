@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu · Creating [Shell] Scripts
-description: An opinionated guide
+description: Learn the basics of Bash scripts on Ubuntu, create an executable .sh file, add Terminal commands, and run the script from the command line.
 date: 2015-07-30 15:00:00 +0100
 image: '/images/posts/ubuntu.jpg'
 tags: [linux, ubuntu, terminal, how-to]
