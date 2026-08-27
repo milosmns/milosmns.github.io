@@ -12,7 +12,7 @@ Keeping it short (and sweet?); I have a freebie to share!
 
 It's something that we compiled over time and it might be valuable for new JVM developers or future contributors to our products at [Blacklane](https://blacklane.com).
 
-We're publishing our [JVM source code guidelines](https://github.com/blacklane/jvm-source-guidelines).
+We're publishing our [JVM source code guidelines](https://web.archive.org/web/20221225122214/https://github.com/blacklane/jvm-source-guidelines).
 
 This document contains various resources on how to write clean, concise and readable code in Java and Kotlin, compliant with our internal rules and checks at Blacklane.
 

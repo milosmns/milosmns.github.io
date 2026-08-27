@@ -26,7 +26,7 @@ A few weeks after Kotlin 1.0.3 was published ... a decision was made. Timecrypt,
 
 The first thing I did was similar to what other people do with Kotlin today -- create some tests. In order to use Kotlin in your project, you need to import Kotlin’s standard library (`stdlib`) and teach Gradle how to compile Kotlin -- here is a [great tutorial](https://kotlinlang.org/docs/tutorials/kotlin-android.html) to quickly get started.
 
-After Kotlin is configured, you can start writing tests. What should I test first? Since I already had the API defined, my first step was to build an HTTP module that would directly use my REST API. I did that using [Retrofit](https://square.github.io/retrofit), of course, and it was a good and simple choice that allowed me to focus on other, more important stuff. The networking module, Retrofit, and my custom-built controller are in the `v2/api/` package (in case you want to see the source later).
+After Kotlin is configured, you can start writing tests. What should I test first? Since I already had the API defined, my first step was to build an HTTP module that would directly use my REST API. I did that using [Retrofit](https://lysine.dev/retrofit/), of course, and it was a good and simple choice that allowed me to focus on other, more important stuff. The networking module, Retrofit, and my custom-built controller are in the `v2/api/` package (in case you want to see the source later).
 
 The three simple Kotlin interfaces I had to create for my HTTP **responses** were:
 

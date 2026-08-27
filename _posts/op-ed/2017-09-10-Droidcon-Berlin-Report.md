@@ -8,7 +8,7 @@ tags: [op-ed, conference, report]
 featured: false
 ---
 
-If you’ve been following my [Twitter](https://twitter.com/milosmns), you'll have seen my posts from [Droidcon Berlin](droidcon.de) this year. This is a summary of that visit.
+If you’ve been following my [Twitter](https://twitter.com/milosmns), you'll have seen my posts from [Droidcon Berlin](https://x.com/droidconBerlin) this year. This is a summary of that visit.
 
 ##### Where and how
 
@@ -23,9 +23,9 @@ There were a lot of different talks, ranging from core Android, IoT, Privacy, to
 *Notes about Coroutines*
 {: refdef}
 
-Svetlana’s [talk about Kotlin Coroutines](http://droidcon.de/en/sessions/kotlin-coroutines) included a lot of information about the new threading concept in Kotlin and explained a lot of language’s advances in comparison to the last year’s Kotlin release.
+Svetlana’s [talk about Kotlin Coroutines](https://av.tib.eu/media/47755) included a lot of information about the new threading concept in Kotlin and explained a lot of language’s advances in comparison to the last year’s Kotlin release.
 
-Another interesting talk was about [Marketing for developers](http://droidcon.de/en/sessions/marketing-developers-get-your-app-users-hands) where Sylwester explained how to get more engagements and have a wider reach within the Android user community. Super insightful.
+Another interesting talk was about [Marketing for developers](https://av.tib.eu/media/47756) where Sylwester explained how to get more engagements and have a wider reach within the Android user community. Super insightful.
 
 {:refdef: style="text-align: center;"}
 ![GDG Lounge](/images/posts/droidcon-lounge.jpeg)
@@ -34,7 +34,7 @@ Another interesting talk was about [Marketing for developers](http://droidcon.de
 
 We also took quite a few breaks in the GDG lounge, where we always felt welcome. 😬
 
-Danny **live-coded** a couple of great examples of how Kotlin can be used to make your life as a developer easier. Find more information about that in [his talk here](http://droidcon.de/en/sessions/power-kotlin-your-tests).
+Danny **live-coded** a couple of great examples of how Kotlin can be used to make your life as a developer easier. Find more information about that in [his talk here](https://av.tib.eu/media/47719).
 
 {:refdef: style="text-align: center;"}
 ![Double Rainbow](/images/posts/droidcon-rainbow.jpeg)
@@ -48,7 +48,7 @@ We also saw a double rainbow on the second day! 😬
 *Unit test tips*
 {: refdef}
 
-Paulina and Grzegorz showed us [how to write Unit tests using Kotlin](http://droidcon.de/en/sessions/kotlinify-your-unit-tests-and-specs). Fun fact: Kotlin is also a brand of ketchup in Poland!
+Paulina and Grzegorz showed us [how to write Unit tests using Kotlin](https://av.tib.eu/media/47748). Fun fact: Kotlin is also a brand of ketchup in Poland!
 
 {:refdef: style="text-align: center;"}
 ![Samsung Hall](/images/posts/droidcon-samsung.jpeg)
@@ -57,7 +57,7 @@ Paulina and Grzegorz showed us [how to write Unit tests using Kotlin](http://dro
 
 While on the IFA show, we took a stroll through Samsung’s "Infinity Hall" where you could have your face digitalized using Samsung's latest tech. We also touched the famous Galaxy Note 8 for the first time! Lost of fun (and free food) during the IFA show! 😬
 
-Last, but not least, [Ralf’s talk about scheduling jobs](http://droidcon.de/en/sessions/doo-z-z-z-z-z-e) was the one that I liked the most, so here’s a photo from that talk showing the jobs library’s API.
+Last, but not least, [Ralf’s talk about scheduling jobs](https://av.tib.eu/media/47750) was the one that I liked the most, so here’s a photo from that talk showing the jobs library’s API.
 
 {:refdef: style="text-align: center;"}
 ![Job Scheduling](/images/posts/droidcon-job-scheduler.jpeg)
