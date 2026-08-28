@@ -14,7 +14,7 @@ By default, not all programs are allowed to show their icons in the top status b
 
 First of all, make sure you have the latest system updates, just in case. You can find how to do that by doing a quick search for system updates right here on the site.
 
-When done, go to [Florian's site](http://www.florian-diesch.de/software/unsettings) to install **Unsettings**. You might be able to find it in the **Software Center** too.
+When done, go to [Florian's site](https://www.florian-diesch.de/software/unsettings/) to install **Unsettings**. You might be able to find it in the **Software Center** too.
 
 When installed, you can open the Lens menu, and look for **Unsettings**. Open it, and go to the **Panel** menu. You will see an editable list of items there.
 

@@ -32,4 +32,4 @@ Many thanks to [@bistabil](https://github.com/bistabil) for working on this one 
 
 Here's the source:
 
-  - [GitHub Repository](https://github.com/milosmns/circular-slider-android)
+  - [GitHub Repository](https://github.com/appifyhub/circular-slider-android)

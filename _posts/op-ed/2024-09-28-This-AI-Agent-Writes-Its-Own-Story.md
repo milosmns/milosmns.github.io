@@ -33,7 +33,7 @@ Fast forward to today, and The Agent isn't just my personal assistant anymore. I
 Curious to peek under the hood? Check it out:
 
   - [The Agent's showcase page](https://agent.appifyhub.com)
-  - [The Agent's source code](https://github.com/appifyhub/the-agent)
+  - [The Agent's source code](https://github.com/appifyhub/agent-backend)
   - [Meet Agent Abot](https://t.me/the_agent_abot) on Telegram (limited beta)
 
 One early lesson: don't build a clever prison. The mobile era taught us how sticky defaults get – the same gravity is forming in AI. OpenAI, Anthropic, Google, xAI — great companies, great tools, but none deserves a monopoly over your workflow and daily life. From day one, <font color="#FAA">The Agent</font> was designed to keep the doors open: providers are swappable; prompts, history, and artifacts stay portable; and a self-hosted path is always in reach.
@@ -89,7 +89,7 @@ While I can read and write code in many languages, including Python, writing `.p
 
 ##### Working with AI in my code editor
 
-For some code blocks, I felt like it is faster to do the coding myself (or with the help of an in-place coding assistant). I also see a lot of people praising [Cursor](https://www.cursor.com) (the AI code editor) – I played with it for a short time but didn't like it. I don't mind using GitHub Copilot though, but I've also started developing a habit of waiting needlessly for it to complete my lines. My advice is to beware of this issue and ensure you're balancing your work with AI completion.
+For some code blocks, I felt like it is faster to do the coding myself (or with the help of an in-place coding assistant). I also see a lot of people praising [Cursor](https://cursor.com/) (the AI code editor) – I played with it for a short time but didn't like it. I don't mind using GitHub Copilot though, but I've also started developing a habit of waiting needlessly for it to complete my lines. My advice is to beware of this issue and ensure you're balancing your work with AI completion.
 
 In-place coding assistance was most useful to me with clear instructions included, e.g. when there's a function name and a comment explaining what I plan to do:
 
@@ -240,7 +240,7 @@ def setUp(self):
   self.user = Mock()
 ```
 
-When I try to use that mocked `self.user` object anywhere, it explodes in my face: [Pydantic models](https://docs.pydantic.dev/latest/concepts/models) do validation internally, and that (of course) fails on dates, UUIDs, and other non-trivial class properties. When I give this feedback to the LLM, it tries to further mock the internal structures of such complex properties, rather than just creating a standard object instance. I believe this has to do with the lack of information about what the domain models are – but again, all current LLMs will simply push ahead and assume they can never get this information from you… instead of simply asking for it.
+When I try to use that mocked `self.user` object anywhere, it explodes in my face: [Pydantic models](https://pydantic.dev/docs/validation/latest/concepts/models/) do validation internally, and that (of course) fails on dates, UUIDs, and other non-trivial class properties. When I give this feedback to the LLM, it tries to further mock the internal structures of such complex properties, rather than just creating a standard object instance. I believe this has to do with the lack of information about what the domain models are – but again, all current LLMs will simply push ahead and assume they can never get this information from you… instead of simply asking for it.
 
 ### 🛜 &nbsp; Networking in tests
 

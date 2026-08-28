@@ -115,7 +115,7 @@ class Looping {
 }
 ```
 
-[Here is](https://github.com/milosmns/java-tests/blob/master/src/loops/whilel/WhileLoopTest.java) the original source, and you can run it on [IDE One](http://ideone.com/Td0jy8) yourself.
+[Here is](https://github.com/milosmns/java-tests/blob/master/src/loops/whilel/WhileLoopTest.java) the original source, and you can run it on [IDE One](https://ideone.com/Td0jy8) yourself.
 
 #### Results
 

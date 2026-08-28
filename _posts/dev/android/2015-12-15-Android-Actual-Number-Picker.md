@@ -37,4 +37,4 @@ The properties are easy to change and set up:
 
 Anyway, here’s the source code:
 
-  - [GitHub Repository](https://github.com/milosmns/actual-number-picker)
+  - [GitHub Repository](https://github.com/appifyhub/actual-number-picker)

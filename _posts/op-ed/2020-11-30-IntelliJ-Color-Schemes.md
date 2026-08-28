@@ -27,7 +27,7 @@ With IntelliJ IDEA's `2020.3` update, I now see a setting to automatically sync 
 
 ## Font Ligatures
 
-Here's a quick legibility tip: if you want to use [Font Ligatures](https://en.wikipedia.org/wiki/Ligature_(writing)) (try it out if you haven't), one of the best fonts that supports them is [JetBrains Mono](https://www.jetbrains.com/lp/mono).
+Here's a quick legibility tip: if you want to use [Font Ligatures](https://en.wikipedia.org/wiki/Ligature_(writing)) (try it out if you haven't), one of the best fonts that supports them is [JetBrains Mono](https://www.jetbrains.com/lp/mono/).
 
 I turned this on in my IntelliJ IDEA through **Preferences** → **Editor** → **Font**, and toggled **Font Ligatures**. Some examples are marked using green.
 

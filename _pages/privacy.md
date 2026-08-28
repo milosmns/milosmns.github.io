@@ -10,4 +10,4 @@ image: '/images/pages/privacy.jpg'
 
 ##### … has been moved!
 
-The policy has moved to a new origin: [Appify Hub's policy](https://appifyhub.com/privacy.html).
+The policy has moved to a new origin: [Appify Hub's policy](https://www.appifyhub.com/privacy.html).

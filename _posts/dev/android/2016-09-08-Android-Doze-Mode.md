@@ -10,7 +10,7 @@ featured: false
 
 #### Inspiration
 
-My day job requires a lot of work on a serious and complex enterprise [Android VoIP app](https://www.counterpath.com/bria-enterprise), so I'm always eager to find out why our users might be experiencing issues with incoming calls or messages. After doing a lot of analysis and research, it turns out that most of the issues I was inspecting were related to [Doze mode](https://developer.android.com/training/monitoring-device-state/doze-standby.html). Since Android 7.0 (Nougat), Doze mode has [become more aggressive](http://www.androidauthority.com/android-n-doze-678982), and now it forces phones into killing network connections much earlier and way more often.
+My day job requires a lot of work on a serious and complex enterprise [Android VoIP app](https://www.counterpath.com/bria-enterprise), so I'm always eager to find out why our users might be experiencing issues with incoming calls or messages. After doing a lot of analysis and research, it turns out that most of the issues I was inspecting were related to [Doze mode](https://developer.android.com/training/monitoring-device-state/doze-standby.html). Since Android 7.0 (Nougat), Doze mode has [become more aggressive](https://www.androidauthority.com/android-n-doze-678982/), and now it forces phones into killing network connections much earlier and way more often.
 
 I prepared a sample app to verify some of the issues and check out what’s really going on.
 

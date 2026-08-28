@@ -12,7 +12,7 @@ I put in quite a bit of work to complete a utility Android app called [Lorem Con
 
 In simplest terms, it’s just a "fancy" contact generator that allows you to fill the contact list on any Android device with any number of fake people. These fake contacts can have “real” (natural) names, emails, phones, and most importantly “real” profile photos.
 
-The project is fully [open-sourced on GitHub](https://github.com/milosmns/contacts-generator-android) with a solid test coverage at this point.
+The project is fully [open-sourced on GitHub](https://github.com/appifyhub/contacts-generator-android) with a solid test coverage at this point.
 
 And, of course, big thanks to [@acolyte192](https://twitter.com/acolyte192) for working on this with me!
 

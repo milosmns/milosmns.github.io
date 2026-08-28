@@ -26,11 +26,11 @@ This happens both from Java and XML.
 
 #### Less talk, more examples!
 
-To illustrate the behavior, I made a [demo app](https://github.com/milosmns/demo-child-view-visibility), go check that out. You can also directly [download the APK](https://github.com/milosmns/demo-child-view-visibility/blob/master/resources/Visibility-Demo.apk?raw=true) too if you wish.
+To illustrate the behavior, I made a [demo app](https://github.com/milosmns/demo-child-view-visibility), go check that out. You can also directly [download the APK](https://raw.githubusercontent.com/milosmns/demo-child-view-visibility/refs/heads/master/resources/Visibility-Demo.apk) too if you wish.
 
-People have already asked about this behavior [here](http://stackoverflow.com/questions/19775407/effect-of-setting-parent-view-visiblity-on-its-children), and there are some explanations offered, so the link may be worth checking out.
+People have already asked about this behavior [here](https://stackoverflow.com/questions/19775407/effect-of-setting-parent-view-visiblity-on-its-children), and there are some explanations offered, so the link may be worth checking out.
 
-To go deeper, you can check out the [LayoutInflater's source](https://github.com/android/platform_frameworks_base/blob/master/core/java/android/view/LayoutInflater.java#L796) and follow the recursive child inflation sequence. You can then check out the interesting [“_snapshot_” method on the ViewGroup class](https://github.com/android/platform_frameworks_base/blob/master/core/java/android/view/ViewGroup.java#L3160), or take a look at the original [visibility implementation on the View class](https://github.com/android/platform_frameworks_base/blob/master/core/java/android/view/View.java#L7430). All of this confirms my earlier statement.
+To go deeper, you can check out the [LayoutInflater's source](https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/android/view/LayoutInflater.java#L796) and follow the recursive child inflation sequence. You can then check out the interesting [“_snapshot_” method on the ViewGroup class](https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/android/view/ViewGroup.java#L3160), or take a look at the original [visibility implementation on the View class](https://github.com/aosp-mirror/platform_frameworks_base/blob/master/core/java/android/view/View.java#L7430). All of this confirms my earlier statement.
 
 The problem is especially problematic if you're stopping animations on `setVisibility(GONE)`, because animations tend to reset visibility to `VISIBLE` on animation loop restart.
 

@@ -54,7 +54,7 @@ println(Calculation(men)) // no ‘new’ keyword?
 
 **Wait, what?**
 
-That's not JavaScript, phew! Okay, so... there's something bothering me. Am I reading this right? Subtracting an `Object` from another `Object`? Coming from a Java world (and not C#), this was very weird to see. My previous experience with PHP, JavaScript, Shell, ActionScript, etc. showed me a lot of strange stuff -- but this was out of the ordinary for a JVM language. I quickly found out that Groovy does something similar with its DSL extensions, but Kotlin’s syntax was the first time I saw [operator overloading](https://kotlinlang.org/docs/reference/operator-overloading.html), for example. This is no plugin, this is the real deal. It’s built in, the functionality comes bundled inside the Kotlin compiler. Interesting, right? Btw, did you know that you can [try Kotlin live](https://try.kotlinlang.org) on their website? I sure didn’t.
+That's not JavaScript, phew! Okay, so... there's something bothering me. Am I reading this right? Subtracting an `Object` from another `Object`? Coming from a Java world (and not C#), this was very weird to see. My previous experience with PHP, JavaScript, Shell, ActionScript, etc. showed me a lot of strange stuff -- but this was out of the ordinary for a JVM language. I quickly found out that Groovy does something similar with its DSL extensions, but Kotlin’s syntax was the first time I saw [operator overloading](https://kotlinlang.org/docs/reference/operator-overloading.html), for example. This is no plugin, this is the real deal. It’s built in, the functionality comes bundled inside the Kotlin compiler. Interesting, right? Btw, did you know that you can [try Kotlin live](https://play.kotlinlang.org/) on their website? I sure didn’t.
 
 The next thing I noticed was the shortened syntax in comparison to Java. Sure, it uses the standard Pascal notation for parameters, Pascal-cased class names, camel-cased variable names, curly brackets to start/end blocks, etc. All of that was familiar, but it was somehow so short! What is normally 3-4 lines in Java, is like 1 line in Kotlin! Then I got more interested, so I discovered more of the Kotlin world, including `inline` functions, `infix` functions, `extension` functions, and `higher-order` function types.
 
@@ -128,6 +128,6 @@ len = b?.length // this is ok, ‘?.’ checks for nullability first
 
 ### Conclusion of part 1
 
-These were just a few interesting examples of how Kotlin works, what it looks like, and what it offers (there’s **a lot more** on the [official website](http://kotlinlang.org)). If you prefer books, here's [a good read](https://www.manning.com/books/kotlin-in-action#downloads) by one of the authors of the Kotlin language.
+These were just a few interesting examples of how Kotlin works, what it looks like, and what it offers (there’s **a lot more** on the [official website](https://kotlinlang.org/)). If you prefer books, here's [a good read](https://www.manning.com/books/kotlin-in-action#downloads) by one of the authors of the Kotlin language.
 
 In my future posts I’ll focus on real-world applications and the hobby project I have been working on using Kotlin.

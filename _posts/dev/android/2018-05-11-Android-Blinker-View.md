@@ -10,7 +10,7 @@ featured: false
 
 #### Inspiration
 
-I finally found some time to do the stuff I like to do (write code). As a result of that, I built a simple blinking Android View as a standalone library, called [BlinkerView](https://github.com/milosmns/blinking-image-view). What it does is already in the name -- it basically infinitely blinks using the source image you give it.
+I finally found some time to do the stuff I like to do (write code). As a result of that, I built a simple blinking Android View as a standalone library, called [BlinkerView](https://github.com/appifyhub/blinking-image-view). What it does is already in the name -- it basically infinitely blinks using the source image you give it.
 
 The reason why I had to build this myself is that most of the solutions on "how to blink android view" all over the Internet suggest to use the **Animation** class and animate the View’s alpha from 0% to 100% through bouncing. The problem with this approach is that the background Drawable also gets affected by the alpha changes.
 
@@ -28,6 +28,6 @@ So, with this library, the background never blinks -- only the given source imag
 
 You can find the sources:
 
-  - [GitHub Repository](https://github.com/milosmns/blinking-image-view)
+  - [GitHub Repository](https://github.com/appifyhub/blinking-image-view)
   
 Have fun blinking!

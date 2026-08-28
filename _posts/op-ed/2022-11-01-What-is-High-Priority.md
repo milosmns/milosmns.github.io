@@ -49,7 +49,7 @@ Visualizations are nice, but let's also clarify. Remember that all classificatio
 *The Priority Matrix (Nike don't sue me)*
 {: refdef}
 
-As [Sofija](https://www.linkedin.com/in/sofija-stojadinovic-524b0b175) mentions [here](https://github.com/milosmns/milosmns.github.io/pull/2#discussion_r1031378276), this is a variation of the [Eisenhower Matrix](https://www.eisenhower.me/eisenhower-matrix). Let's see how my interpretation differs.
+As [Sofija](https://www.linkedin.com/in/sofija-stojadinovic-524b0b175) mentions [here](https://github.com/milosmns/milosmns.github.io/pull/2#discussion_r1031378276), this is a variation of the [Eisenhower Matrix](https://www.eisenhower.me/eisenhower-matrix/). Let's see how my interpretation differs.
 
 **1. Urgent, but _Not_ Impactful**: "Just do it."  
 These are the things I really don't want to do, because I don't think they're important (yet). But these things tend to escalate quickly if ignored. For example, my day-to-day work includes updating security libraries, understanding a rare bug in the Canary deployment, investigating a sudden drop in analytics events, checking on a spike in costs, approving access requests, etc. I usually force myself to do these things right away if they're small, because small things get done quickly and don't mess up my schedule at all. Waiting can cause them to be moved to the next category here, which I don't want. If the work items are large, they must also be impactful (next category) or simply divided into smaller units of work.
@@ -154,7 +154,7 @@ The best read on this so far:
 
 This goes hand in hand with the basic framework I described above. Again, engineering resources don't just simply grow when you need them, so it's not possible to make up engineering time that doesn't exist. That's why I think it's very important that people in the environment understand the constraints of each team member… to be clear, I have limited time to work, limited team resources, and a pretty fixed schedule. This framework ensures that I finish my work on time (or almost on time), which in turn guarantees that I have time for a life outside of work as well.
 
-I'm a firm believer that all requests, inquiries, and questions (personal or professional) deserve a response -- at least to communicate that I'm busy. It takes almost no time to reply _"I'm busy right now, let me get back to you later"_, so I try to at least do that whenever possible. But if I'm having a really busy day, I'll set my [Slack status to busy](https://slack.com/help/articles/214908388-Pause-notifications-with-Do-Not-Disturb) -- then the messages often don't come at all, because people immediately see that I'm busy.
+I'm a firm believer that all requests, inquiries, and questions (personal or professional) deserve a response -- at least to communicate that I'm busy. It takes almost no time to reply _"I'm busy right now, let me get back to you later"_, so I try to at least do that whenever possible. But if I'm having a really busy day, I'll set my [Slack status to busy](https://slack.com/help/articles/214908388-Pause-your-Slack-notifications) -- then the messages often don't come at all, because people immediately see that I'm busy.
 
 {:refdef: style="text-align: center;"}
 ![Slack Profile](/images/posts/time-management-slack-profile.png)

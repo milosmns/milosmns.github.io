@@ -18,7 +18,7 @@ Luckily, [Gravity Labs](https://gravity.com) gave me a lot of inspiration and ha
 
 Sources are here:
 
-  - [GitHub repository](https://github.com/milosmns/goose)
+  - [GitHub repository](https://github.com/appifyhub/goose)
 
 ## How does this work?
 

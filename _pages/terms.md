@@ -10,4 +10,4 @@ image: '/images/pages/terms.jpg'
 
 ##### … have been moved!
 
-The terms have moved to a new origin: [Appify Hub's terms](https://appifyhub.com/terms.html).
+The terms have moved to a new origin: [Appify Hub's terms](https://www.appifyhub.com/terms.html).

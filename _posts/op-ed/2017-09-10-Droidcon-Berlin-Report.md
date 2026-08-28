@@ -12,7 +12,7 @@ If you’ve been following my [Twitter](https://twitter.com/milosmns), you'll ha
 
 ##### Where and how
 
-Droidcon was hosted at CityCube in the outskirts of Berlin's ring area, in a conference building within the Messe Berlin (something like a city Fair). _Fun fact_: Messe Berlin also hosted the [IFA show](http://ifa-berlin.com) there, at the same time as Droidcon, so we got free tickets for IFA too! Wouhouu!
+Droidcon was hosted at CityCube in the outskirts of Berlin's ring area, in a conference building within the Messe Berlin (something like a city Fair). _Fun fact_: Messe Berlin also hosted the [IFA show](https://www.ifa-berlin.com/) there, at the same time as Droidcon, so we got free tickets for IFA too! Wouhouu!
 
 There were a lot of different talks, ranging from core Android, IoT, Privacy, to Legal, Marketing and other. All of them were interesting to a different type of audience.
 
@@ -64,7 +64,7 @@ Last, but not least, [Ralf’s talk about scheduling jobs](https://av.tib.eu/med
 *Job Scheduling API*
 {: refdef}
 
-The API is so clean and easy to use, it will surely become my go-to job scheduling library in the near future. I might also integrate it into [Silly Android](https://github.com/milosmns/silly-android), who knows?!
+The API is so clean and easy to use, it will surely become my go-to job scheduling library in the near future. I might also integrate it into [Silly Android](https://github.com/appifyhub/silly-android), who knows?!
 
 ##### Closure
 

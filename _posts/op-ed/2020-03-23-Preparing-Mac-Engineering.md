@@ -247,7 +247,7 @@ Do you interact with Kubernetes clusters? Kubernetes interaction using `kubectl`
 
 ## The Terminal
 
-Terminal is the main dish of this guide! It's about [iTerm](https://iterm2.com), the 'Terminal on steroids' that does everything that your standard Terminal does, plus a [bunch of other useful things](https://www.iterm2.com/features.html) you never knew you needed. It won't make you a 10x developer, but will surely make you feel like one.
+Terminal is the main dish of this guide! It's about [iTerm](https://iterm2.com), the 'Terminal on steroids' that does everything that your standard Terminal does, plus a [bunch of other useful things](https://iterm2.com/features.html) you never knew you needed. It won't make you a 10x developer, but will surely make you feel like one.
 
 It's super easy to install using Homebrew:
 
@@ -289,7 +289,7 @@ I like the [powerlevel10k](https://github.com/romkatv/powerlevel10k#oh-my-zsh) t
 To install `powerlevel10k` on top of OhMyZsh, I ran this:
 
 ```console
-$ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git $ZSH_CUSTOM/themes/powerlevel10k
+$ git clone --depth=1 https://github.com/romkatv/powerlevel10k $ZSH_CUSTOM/themes/powerlevel10k
 ```
 
 This command pulls the theme, but you still need to specify that you want to use it. You need to **change** the `ZSH_THEME` variable value to `"powerlevel10k/powerlevel10k"` inside of your home directory's `.zshrc` or `.zprofile`.
@@ -317,13 +317,12 @@ I usually need a JVM environment to run apps and services.
 
 **Update**: It seems like they changed back to a free license after a while!
 
-Regardless of the license issues, the "open" version of Java is still free for any type of use, and can be installed through Homebrew from the [AdoptOpenJDK](https://github.com/AdoptOpenJDK/homebrew-openjdk#other-versions) repository, for example.
+Regardless of the license issues, the "open" version of Java is still free for any type of use and can be installed through Homebrew as [Eclipse Temurin](https://formulae.brew.sh/cask/temurin), for example.
 
 To get it, I ran this:
 
 ```console
-$ brew tap AdoptOpenJDK/openjdk
-$ brew install --cask adoptopenjdk8-openj9-jre-large
+$ brew install --cask temurin
 ```
 
 ## Environment Variables
@@ -336,7 +335,7 @@ Here's a trimmed snippet from my `.zshrc` config that sets up Java and the Andro
 # Custom locations
 LOCAL_LINKS_HOME=$HOME/bin:/usr/local/bin
 SCRIPTS_HOME=$HOME/Scripts
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/adoptopenjdk-8-openj9.jdk/Contents/Home
+export JAVA_HOME=$(/usr/libexec/java_home)
 export ANDROID_HOME=$HOME/Library/Android/sdk
 export GRADLE_HOME=/usr/local/Cellar/gradle/5.6.4
 
@@ -352,13 +351,13 @@ Oh, `GRADLE_HOME`? Did I mention that you can also install a local distribution 
 
 ## Code Editors
 
-To manage my main IDEs, I use the [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app) with [sync settings to remote repo](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html#IDE_settings_sync) feature turned on. You can store your settings in a private GitHub repository, for example.
+To manage my main IDEs, I use the [JetBrains Toolbox](https://www.jetbrains.com/toolbox-app/) with [sync settings to remote repo](https://www.jetbrains.com/help/idea/sharing-your-ide-settings.html#IDE_settings_sync) feature turned on. You can store your settings in a private GitHub repository, for example.
 
 My other tools and code editors are automatically updated and synchronized, so no need to worry about them.
 
 ### Other tips
 
-- Check for discounts at [Humble Bundle](https://www.humblebundle.com) and [Stack Social](https://stacksocial.com)
+- Check for discounts at [Humble Bundle](https://www.humblebundle.com) and [Stack Social](https://www.stacksocial.com/)
 - Migrating your scripts? I use a dedicated `~/Scripts` directory to store all of my scripts – way I can backup and restore easily
 - Migrating XCode configurations? It's currently stored in `~/Library/Developer/Xcode/UserData`, including the key mappings and color configurations
 

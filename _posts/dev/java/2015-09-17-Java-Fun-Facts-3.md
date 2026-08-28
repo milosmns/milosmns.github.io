@@ -45,8 +45,8 @@ Now to the interesting part, the comparison. I came up with 5 comparison methods
 
 On to the fun part -- results. The test was quite extensive and long, so I can't share the full output directly in the post, but I can link to the results:
 
-  - [500000 objects per list](http://pastebin.com/3SsMj8VJ)
-  - [1 million objects per list](http://pastebin.com/kvwKdNPF)
+  - [500000 objects per list](https://pastebin.com/3SsMj8VJ)
+  - [1 million objects per list](https://pastebin.com/kvwKdNPF)
 
 ### Results
 

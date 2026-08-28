@@ -28,7 +28,7 @@ Wait, what is "culture"?
 >
 > <cite>[Wikipedia](https://en.wikipedia.org/wiki/Culture)</cite>
 
-Sometimes culture can also be defined as the **personality of the group**, as [GitLab assumes](https://about.gitlab.com/company/culture) too. I personally find that definition appealing. Different organizations define culture in various ways, some opting for more elaborate explanations than others. Regardless of which definition resonates with you, one thing remains clear: culture is not something we read and accept as a fixed entity. It is a dynamic, **unwritten** set of rules and assumptions that constantly evolves.
+Sometimes culture can also be defined as the **personality of the group**, as [GitLab assumes](https://handbook.gitlab.com/handbook/company/culture/) too. I personally find that definition appealing. Different organizations define culture in various ways, some opting for more elaborate explanations than others. Regardless of which definition resonates with you, one thing remains clear: culture is not something we read and accept as a fixed entity. It is a dynamic, **unwritten** set of rules and assumptions that constantly evolves.
 
 For better or worse, many organizations with hierarchical structures tend to develop a culture around the vision of their leaders, which is then influenced by the ever-changing mission of the organization. This type of culture is often documented as a set of principles used for hiring and organizational growth. However, an online document describing an organization's culture rarely provides a comprehensive glimpse into what truly happens within it.
 

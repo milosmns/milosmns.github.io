@@ -10,7 +10,7 @@ featured: false
 
 _Note: This was tested on 12.04, but should work for later versions as well._
 
-_Note: You'll see that I'm using [Sublime Text](http://www.sublimetext.com/) as my text editor on Ubuntu desktop. You may use [gedit](https://wiki.gnome.org/Apps/Gedit) or anything else really instead. For example, [nano](http://www.nano-editor.org/) is a simple alternative for the Terminal. If you want to install Sublime Text, you can do a quick search for it here._
+_Note: You'll see that I'm using [Sublime Text](http://www.sublimetext.com/) as my text editor on Ubuntu desktop. You may use [gedit](https://wiki.gnome.org/Apps/Gedit) or anything else really instead. For example, [nano](https://www.nano-editor.org/) is a simple alternative for the Terminal. If you want to install Sublime Text, you can do a quick search for it here._
 
 ## What is a bash script?
 

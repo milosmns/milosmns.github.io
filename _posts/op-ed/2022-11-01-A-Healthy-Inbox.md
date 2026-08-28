@@ -19,15 +19,15 @@ This post is just one part of my [Time Management](/2022/11/01/Time-is-of-the-Es
 
 #### 🪦 &nbsp; Learning from Google's Inbox
 
-Remember the Google Inbox app? Back in 2015, it was new, fresh, clean and bold… only to end up in [Google's product graveyard](https://killedbygoogle.com) when it was [discontinued in 2019](https://arstechnica.com/gadgets/2019/04/here-lies-google-inbox-a-radical-rethink-of-how-email-should-work). Ex-Google engineers seem to have revived it with [Shortwave](https://shortwave.com), but I haven't gotten around to trying it out yet.
+Remember the Google Inbox app? Back in 2015, it was new, fresh, clean and bold… only to end up in [Google's product graveyard](https://killedbygoogle.com) when it was [discontinued in 2019](https://arstechnica.com/gadgets/2019/04/here-lies-google-inbox-a-radical-rethink-of-how-email-should-work/). Ex-Google engineers seem to have revived it with [Shortwave](https://www.shortwave.com/), but I haven't gotten around to trying it out yet.
 
 {:refdef: style="text-align: center;"}
 ![Google Inbox](/images/posts/time-management-google-inbox-dark.png)
-*Google's Inbox, courtesy of [Inbox Dark](https://chrome.google.com/webstore/detail/inbox-dark/iejjbbdhkinkikfmfmikkiggihjgcdhe)*
+*Google's Inbox, courtesy of [Inbox Dark](https://chromewebstore.google.com/detail/inbox-dark/iejjbbdhkinkikfmfmikkiggihjgcdhe)*
 {: refdef}
 
 Anyway, **Inbox** was perfect for me. It gave me a clear sense of what I still needed to do, and I was able to start my new Inbox experience by simply archiving everything I'd ever done!
-**One pro-tip**: You can still [archive all messages in Gmail](https://www.alphr.com/archive-all-emails-gmail), just not as easily.
+**One pro-tip**: You can still [archive all messages in Gmail](https://www.alphr.com/archive-all-emails-gmail/), just not as easily.
 
 #### 🤔 &nbsp; What was so good about Inbox?
 
@@ -112,7 +112,7 @@ Let's briefly remind ourselves again what each term means.
   3. Customer collaboration over contract negotiation
   4. Responding to change over following a plan
 
-##### [What is Lean &nbsp; ⤴️](https://www.lean.org/explore-lean/what-is-lean)  
+##### [What is Lean &nbsp; ⤴️](https://www.lean.org/explore-lean/what-is-lean/)  
 
   1. Lean is a way of thinking about creating needed value with fewer resources and waste
   2. It is a practice of continuous experimentation to achieve perfect value with zero waste
@@ -120,7 +120,7 @@ Let's briefly remind ourselves again what each term means.
   4. Lean thinking always starts with the customer
 
 **<font color="#F88">And that's really all it is</font>**.  
-**Scrum** and **Kanban** are simply the two most popular methodologies [of dozens](https://thedigitalprojectmanager.com/projects/pm-methodology/agile-methodologies) defined today.
+**Scrum** and **Kanban** are simply the two most popular methodologies [of dozens](https://thedigitalprojectmanager.com/project-management/agile-methodologies/) defined today.
 
 #### 📝 &nbsp; Organizational tools
 
@@ -133,26 +133,25 @@ In no particular order, I'll list some of the tools that most agile teams use to
 
 ##### Process Management and Documentation
 
-  - [Confluence ⤴️](https://www.atlassian.com/wac/software/confluence)
-  - [Notion ⤴️](https://www.notion.so/templates/categories/planning)
-  - [StackOverflow for Teams ⤴️](https://stackoverflow.co/teams)
+  - [Confluence ⤴️](https://www.atlassian.com/software/confluence)
+  - [Notion ⤴️](https://www.notion.com/templates/category/planning-goals)
+  - [StackOverflow for Teams ⤴️](https://stackoverflow.co/internal/)
   - [GitHub Discussions ⤴️](https://docs.github.com/en/discussions)
-  - [Threads ⤴️](https://threads.com)
+  - [Threads ⤴️](https://www.threads.com/)
 
 ##### Planning and Roadmapping
 
   - [Miro ⤴️](https://miro.com/app/dashboard)
-  - [Jamboard ⤴️](https://workspace.google.com/products/jamboard)
-  - [ProductBoard ⤴️](https://www.productboard.com/product/roadmaps)
-  - [Monday ⤴️](https://monday.com/work-management)
+  - [ProductBoard ⤴️](https://www.productboard.com/use-cases/product-roadmapping/)
+  - [Monday ⤴️](https://monday.com/)
   - [Workpath ⤴️](https://www.workpath.com/en/product)
 
 ##### Communication tools that support automation
 
   - [Slack ⤴️](https://slack.com/integrations) &nbsp; _(when everything's chat-based)_
-  - [Google Chat ⤴️](https://workspace.google.com/products/chat) &nbsp; _(when you already paid for Workspace)_
+  - [Google Chat ⤴️](https://workspace.google.com/products/chat/) &nbsp; _(when you already paid for Workspace)_
   - [Discord ⤴️](https://discord.com/blog/app-directory-is-here-mods-and-admins) &nbsp; _(always-on voice chat)_
-  - [Mattermost ⤴️](https://mattermost.com/marketplace) &nbsp; _(open-source, self-hosted alternative to Slack)_
+  - [Mattermost ⤴️](https://mattermost.com/marketplace/) &nbsp; _(open-source, self-hosted alternative to Slack)_
   - [Telegram ⤴️](https://core.telegram.org/bots) &nbsp; _(as a weird work chat alternative, automated through bots)_
   - <font color="#333">Microsoft Teams (I'm not going to)</font>
 
@@ -180,9 +179,9 @@ Any engineer will tell you -- if you can automate something, invest time to auto
 
 > Never spend 10 minutes doing something manually when you can spend 3 days automating it!
 >
-> <cite>Every [10X Engineer](https://a16z.com/2014/07/30/the-happy-demise-of-the-10x-engineer) Ever</cite>
+> <cite>Every [10X Engineer](https://a16z.com/the-happy-demise-of-the-10x-engineer/) Ever</cite>
 
-When we talk about automation, there are a lot of things you can do. At this point, I'd like to give a shout out to our friendly Slack bot, `GO`, who helps us with so many things around [CI/CD](https://about.gitlab.com/topics/ci-cd) and process automation. Getting rid of tasks, remember? You'll have to write this code yourself, of course, but maybe you also have someone like [Tushar](https://www.linkedin.com/in/tushar-nallan) who's willing to spend a lot of time on it to get it done right!
+When we talk about automation, there are a lot of things you can do. At this point, I'd like to give a shout out to our friendly Slack bot, `GO`, who helps us with so many things around [CI/CD](https://about.gitlab.com/topics/ci-cd/) and process automation. Getting rid of tasks, remember? You'll have to write this code yourself, of course, but maybe you also have someone like [Tushar](https://www.linkedin.com/in/tushar-nallan) who's willing to spend a lot of time on it to get it done right!
 
 Here are some examples of what GO does for us.  
 _(note: it's mostly about process automation)_
@@ -211,7 +210,7 @@ When this stuff is coming in a bot message, it allows cross-posting and addition
 
 It's rough and meetings can be a huge productivity killer. The best meeting is **no meeting**. And by that I don't mean you turn down meeting invitations for no reason -- I mean you weigh whether or not you really need a meeting. Maybe you can delegate it to someone, maybe you don't have an agenda, maybe you don't have topics to discuss, or maybe it can be a chat message… then it's okay to skip it. Meetings without a clear agenda (in the title or description) shouldn't happen anyway, because it's impossible to prepare for them, and therefore much of the meeting is spent learning about the context -- rather than problem solving.
 
-To reduce the number of meetings in a day, I use Google Calendar's **[Focus Time](https://support.google.com/calendar/answer/11190973)** and reduce my **[Interviewing Schedule](https://support.google.com/calendar/answer/10729749)** availability. At the same time, my **[Work Hours](https://support.google.com/a/users/answer/9308669)** are also always enabled so I don't get meetings after a certain time of day. My lunch break is also scheduled every day. This setting automatically rejects so many meetings that I'm worried to give the exact number here. 😅
+To reduce the number of meetings in a day, I use Google Calendar's **[Focus Time](https://support.google.com/calendar/answer/11190973)** and reduce my **[Interviewing Schedule](https://support.google.com/calendar/answer/10729749)** availability. At the same time, my **[Work Hours](https://support.google.com/calendar/answer/7638168?co=GENIE.Platform%3DDesktop&hl=en)** are also always enabled so I don't get meetings after a certain time of day. My lunch break is also scheduled every day. This setting automatically rejects so many meetings that I'm worried to give the exact number here. 😅
 
 ##### Aligning team schedules
 
@@ -244,7 +243,7 @@ And since time is usually at a premium, it's best to schedule a set time on your
 
 > Mastering something is not about doing 4000 things -- it’s about doing 12 things 4000 times
 >
-> <cite>[Chet Holmes](https://chetholmes.com/about-us)</cite>
+> <cite>[Chet Holmes](https://www.chetholmes.com/about-us/)</cite>
 
 And I think that's quite right. I think the overall theme of this post is to give some tips on how to reduce the burden as much as possible by thoughtfully organizing TODO lists, and how to get rid of tasks as quickly as possible. Focus on what matters, on those 12 things.
 

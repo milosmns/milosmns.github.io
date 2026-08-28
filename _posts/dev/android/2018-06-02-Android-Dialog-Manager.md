@@ -18,7 +18,7 @@ To show a system dialog on Android (or an `appcompat` one), developers need to c
 
 If the activity the dialog “lives” in is configured to allow configuration changes (such as rotation), you might be getting into the risky situation of having to deal with state saving and restoring of dialogs. You might also need to worry about avoiding memory leaks, e.g. managing the reference to the host Activity inside of a dialog that somehow "survives" the rotation. You'd also be managing the dismissal of the dialog and possibly showing it again after rotation has finished. You might also want to persist the initial configuration that the dialog had at creation time in order to re-create it identically to the first time it was created.
 
-It's a lot of stuff to think about, and can become really annoying -- especially when you have multiple dialogs shown from the same page. Some would even say that the whole Dialog API is a bit... [silly](https://github.com/milosmns/silly-android). Well, the `DialogManager` I worked on aims to solve these issues and relieve you of having to write the boilerplate code yourself.
+It's a lot of stuff to think about, and can become really annoying -- especially when you have multiple dialogs shown from the same page. Some would even say that the whole Dialog API is a bit... [silly](https://github.com/appifyhub/silly-android). Well, the `DialogManager` I worked on aims to solve these issues and relieve you of having to write the boilerplate code yourself.
 
 ### The implementation
 
@@ -34,6 +34,6 @@ There are a couple of things to note about the flow when using this dialog manag
 
 ### Sources
 
-The `DialogManager` implementation is available as a part of the [SillyAndroid library](https://github.com/milosmns/silly-android) I've been working on lately. You can also go directly to the [DialogManager's Wiki page](https://github.com/milosmns/silly-android/wiki/DialogManager-Wiki) to find out more about it.
+The `DialogManager` implementation is available as a part of the [SillyAndroid library](https://github.com/appifyhub/silly-android) I've been working on lately. You can also go directly to the [DialogManager's Wiki page](https://github.com/appifyhub/silly-android/wiki/DialogManager-Wiki) to find out more about it.
 
 Happy dialog management! 😬

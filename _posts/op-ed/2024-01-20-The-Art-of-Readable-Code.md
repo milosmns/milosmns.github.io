@@ -182,9 +182,9 @@ Recommended resources:
   - 📜 &nbsp; [Code as Documentation](https://martinfowler.com/bliki/CodeAsDocumentation.html)
   - 📜 &nbsp; [Maintainable and Readable Code](https://medium.com/@thomassentre/how-to-write-maintainable-and-readable-code-d9876747c224)
   - 📜 &nbsp; [Why Readability is Important](https://thehosk.medium.com/why-code-readability-is-important-e0c228a238a)
-  - 📜 &nbsp; [The Best Engineering Interview](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview)
+  - 📜 &nbsp; [The Best Engineering Interview](https://quuxplusone.github.io/blog/2022/01/06/memcached-interview/)
   - 👀 &nbsp; [On Readability and Maintainability](https://www.youtube.com/watch?v=qugPoGBEJeE)
-  - 🎧📱📚 &nbsp; [Clean Code](https://a.co/d/gMkZZR8)
+  - 🎧📱📚 &nbsp; [Clean Code](https://www.amazon.com/dp/B001GSTOAM)
 
 > The Art of Readable Code
 

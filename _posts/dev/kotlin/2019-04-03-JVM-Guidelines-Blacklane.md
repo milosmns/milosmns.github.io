@@ -10,7 +10,7 @@ featured: false
 
 Keeping it short (and sweet?); I have a freebie to share!
 
-It's something that we compiled over time and it might be valuable for new JVM developers or future contributors to our products at [Blacklane](https://blacklane.com).
+It's something that we compiled over time and it might be valuable for new JVM developers or future contributors to our products at [Blacklane](https://www.blacklane.com/en/).
 
 We're publishing our [JVM source code guidelines](https://web.archive.org/web/20221225122214/https://github.com/blacklane/jvm-source-guidelines).
 

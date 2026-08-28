@@ -10,7 +10,7 @@ featured: false
 
 #### Inspiration
 
-If you’re supporting Android Nougat (OS 7.0-7.1, SDK 24-25), you probably know that one of the biggest changes introduced is the support for [multi-window user experience](https://developer.android.com/guide/topics/ui/multi-window.html). Most of the apps are now allowing users to get into the new, minimized viewing mode. But, you’re probably also [having issues](https://stackoverflow.com/questions/tagged/android-7.0-nougat%20multi-window%20android?mode=all) while preparing apps for the split-screen view... I sure am... so, I wanted to create a demo app to share an example of how Android chooses which layout to render.
+If you’re supporting Android Nougat (OS 7.0-7.1, SDK 24-25), you probably know that one of the biggest changes introduced is the support for [multi-window user experience](https://developer.android.com/develop/ui/compose/layouts/adaptive/support-multi-window-mode). Most of the apps are now allowing users to get into the new, minimized viewing mode. But, you’re probably also [having issues](https://stackoverflow.com/questions/tagged/android-7.0-nougat%20multi-window%20android?mode=all) while preparing apps for the split-screen view... I sure am... so, I wanted to create a demo app to share an example of how Android chooses which layout to render.
 
 #### Structure
 
@@ -49,7 +49,7 @@ Stock Android Nougat offers 3 split-screen configurations while in portrait mode
 
 This app will detect the current activity's split-screen configuration. By looking at the app, we’ll know which layout was be loaded by the OS. Moving between stock Android's split-screen configurations will always trigger an Activity’s recreation cycle: `pause` → `stop` → `destroy` → `create` → `start` → `resume`. So, yes, the **full cycle**. 
 
-I'll also be using a library I’ve been working on ([SillyAndroid](https://github.com/milosmns/silly-android#silly-android)). If you check out the source code, you’ll see that there is nothing special about these checks and you can do them manually if you prefer to. It's just resources in resource folders and switch/case/when clauses in bytecode.
+I'll also be using a library I’ve been working on ([SillyAndroid](https://github.com/appifyhub/silly-android#silly-android)). If you check out the source code, you’ll see that there is nothing special about these checks and you can do them manually if you prefer to. It's just resources in resource folders and switch/case/when clauses in bytecode.
 
 To be able to see which mode and configuration our Activity is currently in, we’ll need an empty layout with a TextView in the center of the Activity. This View is going to be updated each time something triggers a mode change.
 

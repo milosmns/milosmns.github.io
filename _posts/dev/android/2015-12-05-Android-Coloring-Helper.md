@@ -25,4 +25,4 @@ There's a bunch of other useful stuff inside too! [Here’s the source code](htt
 #### Future developments
 
 All of these features, and more, are available now as part of the `Silly Android` library.  
-[Check it out here](https://github.com/milosmns/silly-android/blob/master/sillyandroid/src/main/java/me/angrybyte/sillyandroid/extras/Coloring.java)
+[Check it out here](https://github.com/appifyhub/silly-android/blob/master/sillyandroid/src/main/java/me/angrybyte/sillyandroid/extras/Coloring.java)

@@ -18,7 +18,7 @@ Why "Silly", you may ask? Because the original API decisions are just silly, so 
 
 Contributions are welcome:
 
-  - [GitHub repository](https://github.com/milosmns/silly-android)
+  - [GitHub repository](https://github.com/appifyhub/silly-android)
 
 ### Updates and future releases
 

@@ -26,7 +26,7 @@ Unfortunately, all my blogposts from that time have been lost… because there w
 
 It's now 2014 and Tumblr was recently acquired by Yahoo for $1 billion. Tumblr had a nice user interface for writing content and a modern mobile app with good support for writing on the go. Tech/organizational blogs didn't really exist on Tumblr, but I still felt adventurous and wanted to move there.
 
-Around the same time, Medium was becoming more popular and some of the big tech companies were moving their dev teams there as well. Despite the clean design and ease of use, I never liked it because it was unclear how to migrate… but mostly because I didn't want to support a company that tracked its readers and put up a [paywall in front of](https://qr.ae/pG699l) them without explanation. If you want to make money writing, I'd recommend moving to [Substack](https://substack.com).
+Around the same time, Medium was becoming more popular and some of the big tech companies were moving their dev teams there as well. Despite the clean design and ease of use, I never liked it because it was unclear how to migrate… but mostly because I didn't want to support a company that tracked its readers and put up a [paywall in front of](https://help.medium.com/hc/en-us/articles/360017581433-About-the-paywall) them without explanation. If you want to make money writing, I'd recommend moving to [Substack](https://substack.com).
 
 But back to my migration to Tumblr! I still hadn't learned from my past mistakes. I tried using another migration plugin to move from Wordpress to Tumblr… 😅  
 In my defense, I have to say that this time I had a backup because the old blog was still on GoDaddy. The automatic migration failed (of course) and I finally decided to migrate the posts manually, one by one. This was a good opportunity not only to clean up all the useless nonsense I'd written over the years, but also to redesign and rebrand the blog. Thus, [Angry Byte](https://angrybyte.me) was born! A black and white clean design with a red accent.
@@ -36,7 +36,7 @@ In my defense, I have to say that this time I had a backup because the old blog 
 It's 2021 and like it or not, developers and techies love a nice dark theme. I couldn't find a good way to create a good dark theme anywhere else, so I decided to start looking into creating the blog on my own. There are some important reasons why I wanted to host everything myself (once again):
 
   1. I have more control over the design
-  1. I'd rather control what [my DNS](https://www.cloudflare.com/dns) does than leave it to another company
+  1. I'd rather control what [my DNS](https://www.cloudflare.com/products/dns/) does than leave it to another company
   1. My automation skills are good enough to migrate things with my own code (if needed)
   
 With that, I decided to close Angry Byte and move the blog to my own personal domain -- [milos.marinkovic.xyz](https://milos.marinkovic.xyz).
@@ -84,7 +84,7 @@ GitHub mainly supports [Jekyll](https://jekyllrb.com), among **other** static we
 
   1. Write the basic HTML layouts (or choose from [hundreds of themes](https://gprivate.com/62b76))
   1. Write your styles in CSS/SASS ([or just choose](https://gprivate.com/62b76))
-  1. Write your pages and posts with [Markdown](https://www.markdownguide.org/getting-started)
+  1. Write your pages and posts with [Markdown](https://markdownguide.offshoot.io/getting-started/)
   1. Start the Jekyll generator engine with `jekyll build`
   1. Take the complete static website generated from that
   1. Upload the generated files to your website hosting
@@ -95,7 +95,7 @@ GitHub mainly supports [Jekyll](https://jekyllrb.com), among **other** static we
 
 ##### But wait! <br> With GitHub Pages <font color="#F88">it's much easier</font>!
 
-All Jekyll website themes are already set up for GitHub Pages and ready to go. Once GitHub detects a Jekyll blog in your repository, it automatically knows what to do! After you select a theme, all you have to do is **add and edit Markdown documents**. And it only takes 5 milliseconds to [get familiar with Markdown](https://www.markdownguide.org/cheat-sheet), even if you've never tried it before.
+All Jekyll website themes are already set up for GitHub Pages and ready to go. Once GitHub detects a Jekyll blog in your repository, it automatically knows what to do! After you select a theme, all you have to do is **add and edit Markdown documents**. And it only takes 5 milliseconds to [get familiar with Markdown](https://markdownguide.offshoot.io/cheat-sheet/), even if you've never tried it before.
 
 The only technical knowledge you need to run a simple Jekyll blog is knowing [how to edit files](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll) on the GitHub platform (which is also pretty easy).
 
@@ -145,7 +145,7 @@ If you're sure you have everything installed, but still get the "command not fou
 
 **<font color="#F88">3</font>** &nbsp; &nbsp; **Make the changes to your website**, whether it's the layout (HTML), the styles (CSS), or the content (Markdown). You can also change the general configuration of the website by editing the `_config.yml` file. All these changes can be tested and verified locally on your computer without publishing anything on GitHub.
 
-It's still a good practice to make commits using Git (with [meaningful commit messages](https://wiki.openstack.org/wiki/GitCommitMessages) to maintain a good change history. And of course, using Git tags is a must - if you're happy with the state of the site, you can just put [a tag](https://linuxhint.com/use-git-tags) there with a meaningful name (like "stable version 1.0"). If you're unhappy with the look of the site, you can [go back in history](https://stackoverflow.com/a/18354193/2102748) by looking up a specific tag. It's very likely that you'll have to use `git push --force` instead of `git push` after going back through history, as the differences between the local and remote states are too large to merge manually.
+It's still a good practice to make commits using Git (with [meaningful commit messages](https://wiki.openstack.org/wiki/GitCommitMessages) to maintain a good change history. And of course, using Git tags is a must - if you're happy with the state of the site, you can just put [a tag](https://git-scm.com/book/en/v2/Git-Basics-Tagging) there with a meaningful name (like "stable version 1.0"). If you're unhappy with the look of the site, you can [go back in history](https://stackoverflow.com/questions/18345115/how-do-you-revert-to-a-specific-tag-in-git/18354193#18354193) by looking up a specific tag. It's very likely that you'll have to use `git push --force` instead of `git push` after going back through history, as the differences between the local and remote states are too large to merge manually.
 
 {:refdef: style="text-align: center;"}
 ![Git History](/images/posts/jekyll-terminal-git-history.png)

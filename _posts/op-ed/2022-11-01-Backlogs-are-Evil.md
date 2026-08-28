@@ -67,10 +67,10 @@ If you don't have time to read through the rest of the series, I can offer you s
 
 If you're working in a Kanban environment, you're in luck, because **[Work-In-Progress limits](https://www.atlassian.com/agile/kanban/wip-limits)** are really helpful. But WIP limits only address the consequence here, not the cause, so treat them as such. On the other hand, if you're using Scrum, you might try focusing on limiting or removing changes to the Sprint Backlog during a Sprint. In most Scrum implementations, the engineers are the Sprint Owners and they're **[the only ones allowed to change the Sprint](https://scrumguides.org/scrum-guide.html#artifacts-sprintbacklog)** while it's still running.
 
-Tracking **[cycle time](https://www.lean.org/lexicon-terms/cycle-time)** and **[lead time](https://pm.stackexchange.com/a/15622)** is also helpful because it identifies areas where work in progress can be done more efficiently. The most basic idea is to try to _work on as few issues in parallel as possible_. A colleague recently pointed me to improvement strategies in this area (thanks [Leandro](https://www.linkedin.com/in/leandrolages)), so now I can recommend some resources:
+Tracking **[cycle time](https://www.lean.org/lexicon-terms/cycle-time/)** and **[lead time](https://pm.stackexchange.com/questions/15620/what-is-lead-time/15622#15622)** is also helpful because it identifies areas where work in progress can be done more efficiently. The most basic idea is to try to _work on as few issues in parallel as possible_. A colleague recently pointed me to improvement strategies in this area (thanks [Leandro](https://www.linkedin.com/in/leandrolages)), so now I can recommend some resources:
 
-  - 👀 &nbsp; [Avoid the Resource Utilization Trap](https://youtu.be/CostXs2p6r0)
-  - 👀 &nbsp; [Multiple WIP articles vs. single-part flow](https://youtu.be/Yqi9Gwt-OEA)
+  - 👀 &nbsp; [Avoid the Resource Utilization Trap](https://www.youtube.com/watch?v=CostXs2p6r0)
+  - 👀 &nbsp; [Multiple WIP articles vs. single-part flow](https://www.youtube.com/watch?v=Yqi9Gwt-OEA)
   - 📊 &nbsp; [Google's report on DORA metrics](https://cloud.google.com/blog/products/devops-sre/take-the-2022-state-of-devops-survey) 
     - _Reminder: deployment frequency, lead time, change failure rate, time to restore_
   - 🎧📱📚 &nbsp; [Accelerate: Building Performing Tech Organizations](https://www.amazon.com/Accelerate-Building-Performing-Technology-Organizations/dp/B07BMBYHXL)
@@ -89,7 +89,7 @@ In my case, I rely heavily on simple tools and careful scheduling to spread out 
 
 Here are some examples of what I mean:
 
-  - I use [Chrome Tab Groups](https://blog.google/products/chrome/manage-tabs-with-google-chrome) to organize tasks. I have a **maximum of 3 groups**, at least one of which needs to be active. Remember: limit the WIP items.
+  - I use [Chrome Tab Groups](https://blog.google/products-and-platforms/products/chrome/manage-tabs-with-google-chrome/) to organize tasks. I have a **maximum of 3 groups**, at least one of which needs to be active. Remember: limit the WIP items.
   - I treat regular Chrome tabs as work tasks. When a tab is open, I need to do something in it and close it. I can have a **maximum of 10 tabs** open (which is probably a lot). I put the urgent ones on the right, while the rest are sorted by priority from right to left.
   - [Slack reminders](https://slack.com/resources/using-slack/how-to-use-reminders-in-slack), which I also write about in other parts of this series.
   - At work, I like to have a separate tracking board for **Discovery** (things we're researching or preparing) and not pollute the main, Engineering board. That way we have a good overview of upcoming initiatives without polluting the main workspace and backlogs.

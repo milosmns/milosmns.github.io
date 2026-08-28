@@ -10,7 +10,7 @@ featured: false
 
 ## Introduction
 
-A few months ago in a galaxy far, far away... we had a team discussion about trying out Kotlin Coroutines in one of our Android projects at [Blacklane](https://blacklane.com). As usual, there are lots of pros and cons when considering a library, technology, tech stack, architecture approach, etc. Specifically for us, but probably also similarly to your situation, our codebase is heavily dependent on ReactiveX -- especially the network layer -- and having so many ReactiveX constructs everywhere has become a big concern. Recently, a decision has been made: we obliged ourselves to invest a serious amount of time and research Kotlin Coroutines. I did a bunch of experiments with Coroutines on my own since then, and this post is about my journey into Coroutines, some results of my research, what I learned, some other random thoughts -- and finally, where to go next if you wish to follow the same path.
+A few months ago in a galaxy far, far away... we had a team discussion about trying out Kotlin Coroutines in one of our Android projects at [Blacklane](https://www.blacklane.com/en/). As usual, there are lots of pros and cons when considering a library, technology, tech stack, architecture approach, etc. Specifically for us, but probably also similarly to your situation, our codebase is heavily dependent on ReactiveX -- especially the network layer -- and having so many ReactiveX constructs everywhere has become a big concern. Recently, a decision has been made: we obliged ourselves to invest a serious amount of time and research Kotlin Coroutines. I did a bunch of experiments with Coroutines on my own since then, and this post is about my journey into Coroutines, some results of my research, what I learned, some other random thoughts -- and finally, where to go next if you wish to follow the same path.
 
 So, we're using ReactiveX **a lot**. In our JVM code, that's RxJava + RxKotlin. What's wrong with that? Is there something wrong at all? Do we really need *yet another* approach to "async programming"? Well, according to JetBrains, **yes**.
 
@@ -29,13 +29,13 @@ In the old days of Android, in order to process long-running operations (like ne
 
 ##### Solutions so far...
 
-AsyncTasks are difficult to maintain due to frequent context destruction, and it's very easy to forget about [the cost of SAMs](https://jakewharton.com/exploring-java-hidden-costs), memory leaks, parallelization, etc. AsyncTasks are also not easy to cancel/stop in a thread-safe way.
+AsyncTasks are difficult to maintain due to frequent context destruction, and it's very easy to forget about [the cost of SAMs](https://jakewharton.com/exploring-java-hidden-costs/), memory leaks, parallelization, etc. AsyncTasks are also not easy to cancel/stop in a thread-safe way.
 
 Similar issues arise from using Loaders, although there we had a bit of improvement in terms of cancelation and memory management. But they were still context-bound.
 
 Plain old (good old?) threads are considered heavy-weight in mobile operating systems, thus we always prefer to create as little of them as possible (2 per CPU at most). To work around the low-CPU and low-memory issues, we used thread pools. Thread pools usually need to be managed manually.
 
-The most popular callback approaches (not all though) tend to cause what is known as "[callback hell](https://stackoverflow.com/q/25098066/2102748)". This problem is especially apparent in legacy and native SDKs. Often, callback-based SDKs just lead to a poor client implementation due to having poorly designed APIs in the first place. Maintenance of client usages becomes more complex when refactoring the SDK.
+The most popular callback approaches (not all though) tend to cause what is known as "[callback hell](https://stackoverflow.com/questions/25098066/what-is-callback-hell-and-how-and-why-does-rx-solve-it)". This problem is especially apparent in legacy and native SDKs. Often, callback-based SDKs just lead to a poor client implementation due to having poorly designed APIs in the first place. Maintenance of client usages becomes more complex when refactoring the SDK.
 
 Using Android's loopers is prone to causing memory leaks, and is also cumbersome. Task cancellation using loopers is not straightforward and also requires thread and runner management.
 

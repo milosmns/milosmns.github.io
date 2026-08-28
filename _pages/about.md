@@ -37,10 +37,9 @@ I will not respond to spam. However, if you just want to say **hi** for no parti
 
 #### 🏦 &nbsp; Sources and attribution
 
-I try to use free audio, video and graphic resources, but I build a lot of those on my own too.
-Attribution is given to the people at:
+I try to use free audio, video and graphic resources, but I build a lot of those on my own too. Attribution is given to the people at:
 
   - [Unsplash](https://unsplash.com), [FlatIcon](https://www.flaticon.com)
-  - [Midjourney](https://www.midjourney.com/home), [DALL-E](https://openai.com/dall-e-2)
+  - [Midjourney](https://www.midjourney.com/home), [DALL-E](https://openai.com/index/dall-e-2/)
   - [Free Sound](https://freesound.org), [Epidemic Sound](https://www.epidemicsound.com), [Artlist](https://artlist.io)
-  - [InstaText](https://instatext.io), [GPT Family](https://openai.com/blog/chatgpt)
+  - [InstaText](https://instatext.io), [GPT Family](https://openai.com/index/chatgpt/)

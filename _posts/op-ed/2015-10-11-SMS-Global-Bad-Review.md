@@ -80,7 +80,7 @@ The second answer was totally ridiculous. But they can communicate over email af
 
 First they don’t know what’s wrong and I need to call them, then suddenly they know everything. Then they know contents of all of my messages? Wow. How far does this go?! And the service isn’t even working for me properly. I complained again saying that I want my account removed immediately, deleting all of my data from their servers (as it is clearly not encrypted). I also want my money back, it's literally fraudulent behavior!
 
-And it’s not like they are having [amazing reviews](http://www.productreview.com.au/p/smsglobal.html?sort=rating_low). They desperately need new, satisfied customers. And failed, again. Their last reply was the best: (Frustration #7) after everything that happened, they told me to delete the account from the home page when I log in... the home page, THAT'S NOT WORKING FOR ME! Damn it.
+And it’s not like they are having [amazing reviews](https://www.productreview.com.au/listings/smsglobal). They desperately need new, satisfied customers. And failed, again. Their last reply was the best: (Frustration #7) after everything that happened, they told me to delete the account from the home page when I log in... the home page, THAT'S NOT WORKING FOR ME! Damn it.
 
 {:refdef: style="text-align: center;"}
 ![Angry reaction](/images/posts/reacion-crazy.gif)
